@@ -1,0 +1,1330 @@
+Region,Sub Region,Country,Count,Year,Rate
+Africa,Eastern Africa,Mauritius, 105 ,2003, 9 
+Africa,Eastern Africa,Uganda," 19,491 ",2003, 73 
+Africa,Eastern Africa,Zimbabwe," 78,464 ",2003, 621 
+Africa,Middle Africa,Cameroon," 2,998 ",2003, 18 
+Africa,Middle Africa,Sao Tome and Principe, 1 ,2003, 1 
+Africa,Northern Africa,Algeria," 23,050 ",2003, 71 
+Africa,Northern Africa,Morocco," 48,662 ",2003, 163 
+Africa,Southern Africa,Eswatini," 14,725 ",2003," 1,354 "
+Americas,Northern America,Bermuda, 522 ,2003, 805 
+Americas,Northern America,Canada," 48,135 ",2003, 152 
+Americas,Northern America,United States of America," 859,030 ",2003, 296 
+Americas,South America,Ecuador," 7,084 ",2003, 53 
+Asia,Central Asia,Kyrgyzstan, 225 ,2003, 4 
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China," 7,754 ",2003, 114 
+Asia,Eastern Asia,Japan," 58,505 ",2003, 46 
+Asia,Eastern Asia,Mongolia," 2,440 ",2003, 99 
+Asia,South-Eastern Asia,Brunei Darussalam, 470 ,2003, 133 
+Asia,South-Eastern Asia,Singapore, 593 ,2003, 14 
+Asia,Southern Asia,Sri Lanka," 22,178 ",2003, 115 
+Asia,Western Asia,Azerbaijan, 155 ,2003, 2 
+Asia,Western Asia,Bahrain," 2,701 ",2003, 347 
+Asia,Western Asia,Cyprus, 135 ,2003, 14 
+Asia,Western Asia,Qatar, 291 ,2003, 42 
+Asia,Western Asia,State of Palestine," 5,283 ",2003, 154 
+Asia,Western Asia,Syrian Arab Republic," 5,390 ",2003, 31 
+Asia,Western Asia,Turkey," 91,997 ",2003, 139 
+Europe,Eastern Europe,Belarus," 4,032 ",2003, 41 
+Europe,Eastern Europe,Bulgaria," 3,806 ",2003, 49 
+Europe,Eastern Europe,Hungary," 11,442 ",2003, 113 
+Europe,Eastern Europe,Romania," 9,641 ",2003, 44 
+Europe,Eastern Europe,Slovakia," 4,076 ",2003, 75 
+Europe,Eastern Europe,Ukraine," 5,703 ",2003, 12 
+Europe,Northern Europe,Denmark," 10,894 ",2003, 202 
+Europe,Northern Europe,Finland," 28,835 ",2003, 552 
+Europe,Northern Europe,Ireland," 11,792 ",2003, 291 
+Europe,Northern Europe,Latvia, 883 ,2003, 38 
+Europe,Northern Europe,Lithuania, 543 ,2003, 16 
+Europe,Northern Europe,Norway," 2,804 ",2003, 61 
+Europe,Northern Europe,Sweden," 65,177 ",2003, 728 
+Europe,Northern Europe,United Kingdom (England and Wales)," 455,514 ",2003, 862 
+Europe,Northern Europe,United Kingdom (Northern Ireland)," 1,116 ",2003, 65 
+Europe,Northern Europe,United Kingdom (Scotland)," 62,330 ",2003," 1,230 "
+Europe,Southern Europe,Croatia," 1,249 ",2003, 28 
+Europe,Southern Europe,Greece," 7,663 ",2003, 68 
+Europe,Southern Europe,Montenegro, 141 ,2003, 23 
+Europe,Southern Europe,Portugal," 44,304 ",2003, 422 
+Europe,Southern Europe,Slovenia," 2,400 ",2003, 121 
+Europe,Western Europe,Belgium," 61,959 ",2003, 595 
+Europe,Western Europe,France," 135,003 ",2003, 223 
+Europe,Western Europe,Germany," 445,727 ",2003, 546 
+Europe,Western Europe,Liechtenstein, 61 ,2003, 178 
+Europe,Western Europe,Monaco, 94 ,2003, 285 
+Europe,Western Europe,Netherlands," 53,500 ",2003, 330 
+Europe,Western Europe,Switzerland," 6,732 ",2003, 92 
+Africa,Eastern Africa,Mauritius, 144 ,2004, 12 
+Africa,Eastern Africa,Mozambique," 1,350 ",2004, 7 
+Africa,Eastern Africa,Uganda," 25,744 ",2004, 93 
+Africa,Eastern Africa,Zimbabwe," 95,581 ",2004, 748 
+Africa,Middle Africa,Cameroon," 3,056 ",2004, 18 
+Africa,Middle Africa,Sao Tome and Principe, 1 ,2004, 1 
+Africa,Northern Africa,Algeria," 20,234 ",2004, 62 
+Africa,Northern Africa,Morocco," 46,067 ",2004, 153 
+Africa,Southern Africa,Eswatini," 14,587 ",2004," 1,332 "
+Americas,Caribbean,Barbados," 1,610 ",2004, 590 
+Americas,Caribbean,St. Vincent and the Grenadines," 1,529 ",2004," 1,408 "
+Americas,Caribbean,Trinidad and Tobago, 643 ,2004, 50 
+Americas,Central America,Guatemala," 6,443 ",2004, 50 
+Americas,Central America,Mexico," 246,338 ",2004, 230 
+Americas,Northern America,Bermuda, 435 ,2004, 669 
+Americas,Northern America,Canada," 49,376 ",2004, 155 
+Americas,Northern America,United States of America," 847,381 ",2004, 290 
+Americas,South America,Colombia," 32,534 ",2004, 76 
+Americas,South America,Ecuador," 7,967 ",2004, 59 
+Americas,South America,Peru," 15,020 ",2004, 55 
+Asia,Central Asia,Kyrgyzstan, 213 ,2004, 4 
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China," 7,811 ",2004, 115 
+Asia,Eastern Asia,Japan," 59,628 ",2004, 47 
+Asia,Eastern Asia,Mongolia," 2,846 ",2004, 114 
+Asia,South-Eastern Asia,Brunei Darussalam, 537 ,2004, 149 
+Asia,South-Eastern Asia,Singapore, 549 ,2004, 13 
+Asia,Southern Asia,India," 276,868 ",2004, 25 
+Asia,Southern Asia,Sri Lanka," 21,172 ",2004, 109 
+Asia,Western Asia,Armenia, 190 ,2004, 6 
+Asia,Western Asia,Azerbaijan, 171 ,2004, 2 
+Asia,Western Asia,Bahrain," 3,837 ",2004, 462 
+Asia,Western Asia,Cyprus, 172 ,2004, 17 
+Asia,Western Asia,Georgia, 371 ,2004, 8 
+Asia,Western Asia,Israel," 50,171 ",2004, 776 
+Asia,Western Asia,Kuwait, 641 ,2004, 29 
+Asia,Western Asia,Qatar, 298 ,2004, 39 
+Asia,Western Asia,State of Palestine," 5,812 ",2004, 166 
+Asia,Western Asia,Syrian Arab Republic," 6,365 ",2004, 36 
+Asia,Western Asia,Turkey," 97,145 ",2004, 145 
+Europe,Eastern Europe,Belarus," 1,970 ",2004, 20 
+Europe,Eastern Europe,Bulgaria," 3,711 ",2004, 48 
+Europe,Eastern Europe,Czech Republic," 23,579 ",2004, 230 
+Europe,Eastern Europe,Hungary," 12,514 ",2004, 124 
+Europe,Eastern Europe,Romania," 9,201 ",2004, 43 
+Europe,Eastern Europe,Russian Federation," 57,453 ",2004, 40 
+Europe,Eastern Europe,Slovakia," 3,810 ",2004, 71 
+Europe,Eastern Europe,Ukraine," 5,538 ",2004, 12 
+Europe,Northern Europe,Denmark," 11,005 ",2004, 204 
+Europe,Northern Europe,Finland," 29,782 ",2004, 568 
+Europe,Northern Europe,Ireland," 12,255 ",2004, 297 
+Europe,Northern Europe,Latvia, 872 ,2004, 38 
+Europe,Northern Europe,Lithuania, 454 ,2004, 13 
+Europe,Northern Europe,Norway," 2,884 ",2004, 63 
+Europe,Northern Europe,Sweden," 67,089 ",2004, 746 
+Europe,Northern Europe,United Kingdom (England and Wales)," 513,173 ",2004, 965 
+Europe,Northern Europe,United Kingdom (Northern Ireland)," 1,089 ",2004, 64 
+Europe,Northern Europe,United Kingdom (Scotland)," 80,486 ",2004," 1,583 "
+Europe,Southern Europe,Croatia," 1,153 ",2004, 26 
+Europe,Southern Europe,Greece," 7,606 ",2004, 67 
+Europe,Southern Europe,Italy," 51,823 ",2004, 89 
+Europe,Southern Europe,Montenegro, 150 ,2004, 24 
+Europe,Southern Europe,Portugal," 41,716 ",2004, 396 
+Europe,Southern Europe,Slovenia," 2,379 ",2004, 119 
+Europe,Western Europe,Austria," 3,584 ",2004, 44 
+Europe,Western Europe,Belgium," 64,811 ",2004, 618 
+Europe,Western Europe,France," 137,679 ",2004, 226 
+Europe,Western Europe,Germany," 474,575 ",2004, 581 
+Europe,Western Europe,Liechtenstein, 70 ,2004, 202 
+Europe,Western Europe,Monaco, 129 ,2004, 387 
+Europe,Western Europe,Netherlands," 55,300 ",2004, 340 
+Europe,Western Europe,Switzerland," 8,198 ",2004, 112 
+Oceania,Melanesia,Solomon Islands," 1,207 ",2004, 263 
+Africa,Eastern Africa,Kenya," 12,715 ",2005, 35 
+Africa,Eastern Africa,Mauritius, 122 ,2005, 10 
+Africa,Eastern Africa,Mozambique," 1,272 ",2005, 6 
+Africa,Eastern Africa,Uganda," 35,092 ",2005, 123 
+Africa,Eastern Africa,Zimbabwe," 92,510 ",2005, 715 
+Africa,Middle Africa,Cameroon," 3,140 ",2005, 18 
+Africa,Northern Africa,Algeria," 32,920 ",2005, 99 
+Africa,Northern Africa,Morocco," 32,623 ",2005, 107 
+Africa,Western Africa,Guinea, 286 ,2005, 3 
+Africa,Western Africa,Senegal, 279 ,2005, 2 
+Americas,Caribbean,Barbados," 1,731 ",2005, 632 
+Americas,Caribbean,Grenada," 1,894 ",2005," 1,840 "
+Americas,Caribbean,St. Vincent and the Grenadines," 1,252 ",2005," 1,151 "
+Americas,Caribbean,Trinidad and Tobago, 801 ,2005, 62 
+Americas,Central America,El Salvador," 4,628 ",2005, 77 
+Americas,Central America,Guatemala," 6,095 ",2005, 47 
+Americas,Central America,Mexico," 239,166 ",2005, 220 
+Americas,Central America,Nicaragua," 19,335 ",2005, 359 
+Americas,Northern America,Canada," 53,451 ",2005, 166 
+Americas,Northern America,United States of America," 862,220 ",2005, 292 
+Americas,South America,Argentina," 142,099 ",2005, 363 
+Americas,South America,Bolivia (Plurinational State of)," 6,026 ",2005, 66 
+Americas,South America,Colombia," 30,415 ",2005, 70 
+Americas,South America,Ecuador," 7,756 ",2005, 56 
+Americas,South America,Paraguay," 2,235 ",2005, 39 
+Americas,South America,Peru," 14,699 ",2005, 53 
+Asia,Central Asia,Kyrgyzstan, 264 ,2005, 5 
+Asia,Central Asia,Turkmenistan, 90 ,2005, 2 
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China," 8,091 ",2005, 119 
+Asia,Eastern Asia,Japan," 60,299 ",2005, 47 
+Asia,Eastern Asia,Mongolia," 2,991 ",2005, 118 
+Asia,South-Eastern Asia,Brunei Darussalam, 530 ,2005, 145 
+Asia,South-Eastern Asia,Malaysia," 4,246 ",2005, 17 
+Asia,South-Eastern Asia,Singapore, 607 ,2005, 14 
+Asia,South-Eastern Asia,Thailand," 28,245 ",2005, 43 
+Asia,Southern Asia,Bangladesh, 570 ,2005, 0 
+Asia,Southern Asia,India," 270,861 ",2005, 24 
+Asia,Southern Asia,Nepal," 1,047 ",2005, 4 
+Asia,Western Asia,Armenia, 180 ,2005, 6 
+Asia,Western Asia,Azerbaijan, 165 ,2005, 2 
+Asia,Western Asia,Bahrain," 3,528 ",2005, 397 
+Asia,Western Asia,Cyprus, 132 ,2005, 13 
+Asia,Western Asia,Georgia, 368 ,2005, 8 
+Asia,Western Asia,Israel," 51,114 ",2005, 774 
+Asia,Western Asia,Jordan," 14,677 ",2005, 257 
+Asia,Western Asia,Kuwait, 595 ,2005, 26 
+Asia,Western Asia,State of Palestine," 6,572 ",2005, 184 
+Asia,Western Asia,Syrian Arab Republic," 6,157 ",2005, 34 
+Asia,Western Asia,Turkey," 105,721 ",2005, 156 
+Asia,Western Asia,United Arab Emirates, 717 ,2005, 16 
+Europe,Eastern Europe,Belarus," 1,915 ",2005, 20 
+Europe,Eastern Europe,Bulgaria," 3,656 ",2005, 48 
+Europe,Eastern Europe,Czech Republic," 21,684 ",2005, 211 
+Europe,Eastern Europe,Hungary," 12,339 ",2005, 122 
+Europe,Eastern Europe,Republic of Moldova, 395 ,2005, 10 
+Europe,Eastern Europe,Romania," 8,898 ",2005, 42 
+Europe,Eastern Europe,Russian Federation," 57,863 ",2005, 40 
+Europe,Eastern Europe,Slovakia," 3,896 ",2005, 72 
+Europe,Eastern Europe,Ukraine," 6,707 ",2005, 14 
+Europe,Northern Europe,Denmark," 11,117 ",2005, 205 
+Europe,Northern Europe,Estonia, 132 ,2005, 10 
+Europe,Northern Europe,Finland," 30,467 ",2005, 579 
+Europe,Northern Europe,Ireland," 12,479 ",2005, 296 
+Europe,Northern Europe,Latvia," 1,100 ",2005, 49 
+Europe,Northern Europe,Lithuania, 407 ,2005, 12 
+Europe,Northern Europe,Norway," 2,961 ",2005, 64 
+Europe,Northern Europe,Sweden," 72,645 ",2005, 804 
+Europe,Northern Europe,United Kingdom (England and Wales)," 541,455 ",2005," 1,011 "
+Europe,Northern Europe,United Kingdom (Northern Ireland)," 1,095 ",2005, 63 
+Europe,Northern Europe,United Kingdom (Scotland)," 78,601 ",2005," 1,538 "
+Europe,Southern Europe,Albania, 165 ,2005, 5 
+Europe,Southern Europe,Bosnia and Herzegovina," 1,369 ",2005, 36 
+Europe,Southern Europe,Croatia," 1,153 ",2005, 26 
+Europe,Southern Europe,Greece," 7,777 ",2005, 69 
+Europe,Southern Europe,Italy," 56,629 ",2005, 96 
+Europe,Southern Europe,Montenegro, 155 ,2005, 25 
+Europe,Southern Europe,Portugal," 39,220 ",2005, 371 
+Europe,Southern Europe,Serbia," 1,614 ",2005, 18 
+Europe,Southern Europe,Slovenia," 2,304 ",2005, 115 
+Europe,Southern Europe,Spain," 172,824 ",2005, 392 
+Europe,Western Europe,Austria," 3,611 ",2005, 44 
+Europe,Western Europe,Belgium," 67,418 ",2005, 639 
+Europe,Western Europe,France," 148,651 ",2005, 243 
+Europe,Western Europe,Germany," 494,329 ",2005, 605 
+Europe,Western Europe,Liechtenstein, 71 ,2005, 204 
+Europe,Western Europe,Monaco, 155 ,2005, 459 
+Europe,Western Europe,Netherlands," 67,060 ",2005, 410 
+Europe,Western Europe,Switzerland," 8,099 ",2005, 109 
+Oceania,Australia and New Zealand,New Zealand," 9,683 ",2005, 234 
+Oceania,Melanesia,Solomon Islands," 1,213 ",2005, 258 
+Africa,Eastern Africa,Kenya," 13,186 ",2006, 36 
+Africa,Eastern Africa,Mauritius, 106 ,2006, 9 
+Africa,Eastern Africa,Mozambique, 800 ,2006, 4 
+Africa,Eastern Africa,Uganda," 43,782 ",2006, 148 
+Africa,Eastern Africa,Zimbabwe," 77,525 ",2006, 591 
+Africa,Middle Africa,Cameroon," 3,136 ",2006, 18 
+Africa,Middle Africa,Sao Tome and Principe, -   ,2006, -   
+Africa,Northern Africa,Algeria," 36,681 ",2006, 109 
+Africa,Northern Africa,Egypt, 65 ,2006, 0 
+Africa,Northern Africa,Morocco," 36,161 ",2006, 117 
+Africa,Western Africa,Senegal, 252 ,2006, 2 
+Americas,Caribbean,Barbados," 1,704 ",2006, 620 
+Americas,Caribbean,Grenada," 1,903 ",2006," 1,843 "
+Americas,Caribbean,St. Vincent and the Grenadines," 1,054 ",2006, 968 
+Americas,Caribbean,Trinidad and Tobago, 657 ,2006, 50 
+Americas,Central America,Belize, 142 ,2006, 49 
+Americas,Central America,Costa Rica," 5,931 ",2006, 138 
+Americas,Central America,El Salvador," 4,614 ",2006, 76 
+Americas,Central America,Guatemala," 6,055 ",2006, 45 
+Americas,Central America,Mexico," 245,507 ",2006, 223 
+Americas,Central America,Nicaragua," 18,391 ",2006, 337 
+Americas,Central America,Panama," 6,055 ",2006, 179 
+Americas,Northern America,Canada," 56,709 ",2006, 174 
+Americas,Northern America,United States of America," 874,096 ",2006, 293 
+Americas,South America,Argentina," 134,291 ",2006, 339 
+Americas,South America,Bolivia (Plurinational State of)," 5,405 ",2006, 58 
+Americas,South America,Brazil," 652,778 ",2006, 345 
+Americas,South America,Chile," 20,992 ",2006, 129 
+Americas,South America,Colombia," 46,529 ",2006, 106 
+Americas,South America,Ecuador," 6,575 ",2006, 47 
+Americas,South America,Paraguay, 995 ,2006, 17 
+Americas,South America,Peru," 15,827 ",2006, 57 
+Americas,South America,Uruguay, 615 ,2006, 18 
+Asia,Central Asia,Kazakhstan," 2,474 ",2006, 16 
+Asia,Central Asia,Kyrgyzstan, 206 ,2006, 4 
+Asia,Central Asia,Tajikistan," 5,762 ",2006, 82 
+Asia,Central Asia,Turkmenistan, 83 ,2006, 2 
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China," 8,690 ",2006, 127 
+Asia,Eastern Asia,Japan," 64,989 ",2006, 51 
+Asia,Eastern Asia,Mongolia," 3,584 ",2006, 140 
+Asia,Eastern Asia,Republic of Korea," 281,928 ",2006, 577 
+Asia,South-Eastern Asia,Brunei Darussalam, 451 ,2006, 122 
+Asia,South-Eastern Asia,Malaysia," 5,716 ",2006, 22 
+Asia,South-Eastern Asia,Singapore, 636 ,2006, 14 
+Asia,South-Eastern Asia,Thailand," 25,798 ",2006, 39 
+Asia,Southern Asia,Bangladesh, 570 ,2006, 0 
+Asia,Southern Asia,India," 264,748 ",2006, 23 
+Asia,Southern Asia,Nepal," 1,047 ",2006, 4 
+Asia,Western Asia,Armenia, 178 ,2006, 6 
+Asia,Western Asia,Azerbaijan, 160 ,2006, 2 
+Asia,Western Asia,Bahrain," 3,455 ",2006, 360 
+Asia,Western Asia,Cyprus, 134 ,2006, 13 
+Asia,Western Asia,Georgia, 271 ,2006, 6 
+Asia,Western Asia,Israel," 50,866 ",2006, 753 
+Asia,Western Asia,Jordan," 15,694 ",2006, 264 
+Asia,Western Asia,Kuwait, 632 ,2006, 27 
+Asia,Western Asia,Syrian Arab Republic," 5,543 ",2006, 29 
+Asia,Western Asia,Turkey," 138,937 ",2006, 202 
+Asia,Western Asia,United Arab Emirates, 758 ,2006, 14 
+Europe,Eastern Europe,Belarus," 1,726 ",2006, 18 
+Europe,Eastern Europe,Bulgaria," 2,976 ",2006, 39 
+Europe,Eastern Europe,Czech Republic," 19,171 ",2006, 186 
+Europe,Eastern Europe,Hungary," 11,516 ",2006, 115 
+Europe,Eastern Europe,Republic of Moldova, 409 ,2006, 10 
+Europe,Eastern Europe,Romania," 9,459 ",2006, 45 
+Europe,Eastern Europe,Russian Federation," 51,429 ",2006, 36 
+Europe,Eastern Europe,Slovakia," 3,200 ",2006, 59 
+Europe,Eastern Europe,Ukraine," 6,464 ",2006, 14 
+Europe,Northern Europe,Denmark," 11,628 ",2006, 214 
+Europe,Northern Europe,Estonia, 141 ,2006, 10 
+Europe,Northern Europe,Finland," 30,864 ",2006, 585 
+Europe,Northern Europe,Iceland, 56 ,2006, 19 
+Europe,Northern Europe,Ireland," 13,737 ",2006, 319 
+Europe,Northern Europe,Latvia," 1,549 ",2006, 70 
+Europe,Northern Europe,Lithuania, 340 ,2006, 10 
+Europe,Northern Europe,Norway," 3,185 ",2006, 68 
+Europe,Northern Europe,Sweden," 77,019 ",2006, 847 
+Europe,Northern Europe,United Kingdom (England and Wales)," 504,718 ",2006, 936 
+Europe,Northern Europe,United Kingdom (Northern Ireland)," 1,164 ",2006, 67 
+Europe,Northern Europe,United Kingdom (Scotland)," 84,692 ",2006," 1,650 "
+Europe,Southern Europe,Albania, 246 ,2006, 8 
+Europe,Southern Europe,Bosnia and Herzegovina," 1,498 ",2006, 40 
+Europe,Southern Europe,Croatia," 1,069 ",2006, 24 
+Europe,Southern Europe,Greece," 7,399 ",2006, 65 
+Europe,Southern Europe,Italy," 59,143 ",2006, 100 
+Europe,Southern Europe,Montenegro, 164 ,2006, 27 
+Europe,Southern Europe,Portugal," 39,998 ",2006, 377 
+Europe,Southern Europe,Serbia," 1,657 ",2006, 18 
+Europe,Southern Europe,Slovenia," 2,431 ",2006, 121 
+Europe,Southern Europe,Spain," 180,706 ",2006, 404 
+Europe,Southern Europe,The former Yugoslav Rep. of Macedonia, 441 ,2006, 21 
+Europe,Western Europe,Austria," 3,577 ",2006, 43 
+Europe,Western Europe,Belgium," 70,886 ",2006, 668 
+Europe,Western Europe,France," 164,359 ",2006, 267 
+Europe,Western Europe,Germany," 510,775 ",2006, 626 
+Europe,Western Europe,Liechtenstein, 77 ,2006, 219 
+Europe,Western Europe,Luxembourg," 1,811 ",2006, 389 
+Europe,Western Europe,Monaco, 140 ,2006, 407 
+Europe,Western Europe,Netherlands," 69,185 ",2006, 421 
+Europe,Western Europe,Switzerland," 9,272 ",2006, 124 
+Oceania,Australia and New Zealand,New Zealand," 10,140 ",2006, 242 
+Oceania,Melanesia,Solomon Islands," 1,168 ",2006, 243 
+Africa,Eastern Africa,Kenya," 12,089 ",2007, 32 
+Africa,Eastern Africa,Mauritius, 140 ,2007, 11 
+Africa,Eastern Africa,Mozambique, 724 ,2007, 3 
+Africa,Eastern Africa,Uganda," 28,839 ",2007, 94 
+Africa,Eastern Africa,Zimbabwe," 63,803 ",2007, 479 
+Africa,Middle Africa,Cameroon," 3,482 ",2007, 19 
+Africa,Middle Africa,Sao Tome and Principe, 4 ,2007, 2 
+Africa,Northern Africa,Algeria," 36,915 ",2007, 108 
+Africa,Northern Africa,Egypt, 71 ,2007, 0 
+Africa,Northern Africa,Morocco," 31,432 ",2007, 101 
+Africa,Southern Africa,Lesotho," 9,337 ",2007, 471 
+Africa,Western Africa,Cote d'Ivoire," 9,821 ",2007, 51 
+Africa,Western Africa,Guinea, 293 ,2007, 3 
+Africa,Western Africa,Nigeria," 15,136 ",2007, 10 
+Africa,Western Africa,Senegal, 181 ,2007, 2 
+Africa,Western Africa,Sierra Leone," 18,620 ",2007, 310 
+Americas,Caribbean,Barbados," 1,549 ",2007, 561 
+Americas,Caribbean,Grenada," 1,312 ",2007," 1,267 "
+Americas,Caribbean,St. Vincent and the Grenadines," 1,063 ",2007, 975 
+Americas,Caribbean,Trinidad and Tobago, 680 ,2007, 52 
+Americas,Central America,Costa Rica," 6,429 ",2007, 147 
+Americas,Central America,El Salvador," 2,971 ",2007, 49 
+Americas,Central America,Guatemala," 6,238 ",2007, 46 
+Americas,Central America,Mexico," 261,295 ",2007, 234 
+Americas,Central America,Panama," 6,450 ",2007, 187 
+Americas,Northern America,Canada," 58,269 ",2007, 176 
+Americas,Northern America,United States of America," 866,358 ",2007, 288 
+Americas,South America,Argentina," 137,181 ",2007, 343 
+Americas,South America,Bolivia (Plurinational State of)," 6,441 ",2007, 68 
+Americas,South America,Brazil," 649,027 ",2007, 340 
+Americas,South America,Chile," 21,727 ",2007, 132 
+Americas,South America,Colombia," 47,957 ",2007, 108 
+Americas,South America,Paraguay," 1,048 ",2007, 18 
+Americas,South America,Peru," 54,265 ",2007, 192 
+Americas,South America,Uruguay, 656 ,2007, 20 
+Asia,Central Asia,Kazakhstan," 1,988 ",2007, 13 
+Asia,Central Asia,Kyrgyzstan, 343 ,2007, 7 
+Asia,Central Asia,Tajikistan," 5,730 ",2007, 80 
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China," 8,660 ",2007, 126 
+Asia,Eastern Asia,Japan," 62,952 ",2007, 49 
+Asia,Eastern Asia,Mongolia," 4,614 ",2007, 178 
+Asia,Eastern Asia,Republic of Korea," 294,728 ",2007, 601 
+Asia,South-Eastern Asia,Singapore, 403 ,2007, 9 
+Asia,South-Eastern Asia,Thailand," 26,620 ",2007, 40 
+Asia,Southern Asia,India," 273,067 ",2007, 23 
+Asia,Southern Asia,Maldives," 1,157 ",2007, 344 
+Asia,Western Asia,Armenia, 164 ,2007, 6 
+Asia,Western Asia,Bahrain," 2,634 ",2007, 254 
+Asia,Western Asia,Cyprus, 142 ,2007, 13 
+Asia,Western Asia,Georgia, 157 ,2007, 4 
+Asia,Western Asia,Israel," 45,025 ",2007, 650 
+Asia,Western Asia,Kuwait, 732 ,2007, 29 
+Asia,Western Asia,Oman," 1,790 ",2007, 67 
+Asia,Western Asia,Syrian Arab Republic, 653 ,2007, 3 
+Asia,Western Asia,Turkey," 121,913 ",2007, 175 
+Europe,Eastern Europe,Belarus," 1,657 ",2007, 17 
+Europe,Eastern Europe,Bulgaria," 3,173 ",2007, 42 
+Europe,Eastern Europe,Czech Republic," 19,551 ",2007, 189 
+Europe,Eastern Europe,Hungary," 11,148 ",2007, 111 
+Europe,Eastern Europe,Republic of Moldova, 408 ,2007, 10 
+Europe,Eastern Europe,Romania," 9,586 ",2007, 46 
+Europe,Eastern Europe,Russian Federation," 47,348 ",2007, 33 
+Europe,Eastern Europe,Slovakia," 2,967 ",2007, 55 
+Europe,Eastern Europe,Ukraine," 5,716 ",2007, 12 
+Europe,Northern Europe,Denmark," 11,552 ",2007, 211 
+Europe,Northern Europe,Estonia, 145 ,2007, 11 
+Europe,Northern Europe,Finland," 34,614 ",2007, 653 
+Europe,Northern Europe,Iceland, 50 ,2007, 16 
+Europe,Northern Europe,Ireland," 15,147 ",2007, 344 
+Europe,Northern Europe,Latvia," 1,256 ",2007, 57 
+Europe,Northern Europe,Lithuania, 287 ,2007, 9 
+Europe,Northern Europe,Norway," 3,312 ",2007, 70 
+Europe,Northern Europe,Sweden," 82,262 ",2007, 898 
+Europe,Northern Europe,United Kingdom (England and Wales)," 450,766 ",2007, 829 
+Europe,Northern Europe,United Kingdom (Northern Ireland)," 1,148 ",2007, 65 
+Europe,Northern Europe,United Kingdom (Scotland)," 79,523 ",2007," 1,538 "
+Europe,Southern Europe,Albania, 219 ,2007, 7 
+Europe,Southern Europe,Andorra, 83 ,2007, 100 
+Europe,Southern Europe,Bosnia and Herzegovina," 1,566 ",2007, 41 
+Europe,Southern Europe,Croatia," 1,093 ",2007, 25 
+Europe,Southern Europe,Greece," 7,788 ",2007, 68 
+Europe,Southern Europe,Italy," 63,602 ",2007, 107 
+Europe,Southern Europe,Portugal," 37,389 ",2007, 352 
+Europe,Southern Europe,Serbia," 1,681 ",2007, 18 
+Europe,Southern Europe,Slovenia," 2,482 ",2007, 123 
+Europe,Southern Europe,Spain," 70,536 ",2007, 155 
+Europe,Southern Europe,The former Yugoslav Rep. of Macedonia, 349 ,2007, 17 
+Europe,Western Europe,Austria," 3,878 ",2007, 47 
+Europe,Western Europe,Belgium," 74,289 ",2007, 694 
+Europe,Western Europe,France," 175,886 ",2007, 284 
+Europe,Western Europe,Germany," 523,283 ",2007, 643 
+Europe,Western Europe,Liechtenstein, 68 ,2007, 193 
+Europe,Western Europe,Luxembourg," 2,030 ",2007, 428 
+Europe,Western Europe,Netherlands," 71,570 ",2007, 434 
+Europe,Western Europe,Switzerland," 9,644 ",2007, 128 
+Oceania,Australia and New Zealand,New Zealand," 11,569 ",2007, 273 
+Oceania,Melanesia,Solomon Islands," 1,184 ",2007, 240 
+Africa,Eastern Africa,Burundi, 437 ,2008, 5 
+Africa,Eastern Africa,Kenya," 11,479 ",2008, 29 
+Africa,Eastern Africa,Mauritius, 148 ,2008, 12 
+Africa,Eastern Africa,Mozambique, 728 ,2008, 3 
+Africa,Eastern Africa,Rwanda," 2,249 ",2008, 23 
+Africa,Eastern Africa,Uganda," 21,186 ",2008, 67 
+Africa,Eastern Africa,Zimbabwe," 51,247 ",2008, 378 
+Africa,Middle Africa,Sao Tome and Principe, 1 ,2008, 1 
+Africa,Northern Africa,Algeria," 40,398 ",2008, 116 
+Africa,Northern Africa,Egypt, 120 ,2008, 0 
+Africa,Northern Africa,Morocco," 30,934 ",2008, 98 
+Africa,Southern Africa,Lesotho," 9,957 ",2008, 498 
+Africa,Western Africa,Cote d'Ivoire," 10,124 ",2008, 52 
+Africa,Western Africa,Nigeria," 14,692 ",2008, 10 
+Africa,Western Africa,Senegal, 543 ,2008, 4 
+Africa,Western Africa,Sierra Leone," 19,871 ",2008, 322 
+Americas,Caribbean,Barbados," 1,594 ",2008, 575 
+Americas,Caribbean,Grenada," 1,285 ",2008," 1,236 "
+Americas,Caribbean,Puerto Rico," 3,115 ",2008, 83 
+Americas,Caribbean,St. Vincent and the Grenadines," 1,029 ",2008, 943 
+Americas,Caribbean,Trinidad and Tobago, 771 ,2008, 59 
+Americas,Central America,Costa Rica," 6,750 ",2008, 152 
+Americas,Central America,El Salvador," 3,428 ",2008, 56 
+Americas,Central America,Guatemala," 6,960 ",2008, 50 
+Americas,Central America,Mexico," 250,932 ",2008, 221 
+Americas,Central America,Panama," 6,739 ",2008, 192 
+Americas,Northern America,Canada," 58,419 ",2008, 175 
+Americas,Northern America,United States of America," 843,683 ",2008, 278 
+Americas,South America,Argentina," 145,240 ",2008, 360 
+Americas,South America,Bolivia (Plurinational State of)," 6,987 ",2008, 73 
+Americas,South America,Brazil," 649,996 ",2008, 337 
+Americas,South America,Chile," 23,275 ",2008, 140 
+Americas,South America,Colombia," 36,043 ",2008, 80 
+Americas,South America,Paraguay," 2,115 ",2008, 35 
+Americas,South America,Peru," 54,356 ",2008, 190 
+Americas,South America,Uruguay, 768 ,2008, 23 
+Asia,Central Asia,Kazakhstan," 1,945 ",2008, 12 
+Asia,Central Asia,Kyrgyzstan, 349 ,2008, 7 
+Asia,Central Asia,Tajikistan," 7,396 ",2008, 101 
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China," 8,410 ",2008, 121 
+Asia,Eastern Asia,Japan," 60,126 ",2008, 47 
+Asia,Eastern Asia,Macao Special Administrative Region of China," 1,998 ",2008, 388 
+Asia,Eastern Asia,Mongolia," 5,319 ",2008, 202 
+Asia,Eastern Asia,Republic of Korea," 305,465 ",2008, 621 
+Asia,South-Eastern Asia,Indonesia," 33,330 ",2008, 14 
+Asia,South-Eastern Asia,Singapore, 441 ,2008, 9 
+Asia,South-Eastern Asia,Thailand," 18,804 ",2008, 28 
+Asia,Southern Asia,Bhutan, 34 ,2008, 5 
+Asia,Southern Asia,India," 284,969 ",2008, 24 
+Asia,Southern Asia,Maldives," 1,495 ",2008, 433 
+Asia,Southern Asia,Sri Lanka," 50,466 ",2008, 253 
+Asia,Western Asia,Armenia, 201 ,2008, 7 
+Asia,Western Asia,Bahrain," 3,654 ",2008, 328 
+Asia,Western Asia,Cyprus, 167 ,2008, 15 
+Asia,Western Asia,Georgia, 200 ,2008, 5 
+Asia,Western Asia,Iraq (Central Iraq)," 13,321 ",2008, 54 
+Asia,Western Asia,Israel," 45,432 ",2008, 640 
+Asia,Western Asia,Kuwait, 644 ,2008, 24 
+Asia,Western Asia,Lebanon," 7,950 ",2008, 193 
+Asia,Western Asia,Oman," 2,083 ",2008, 75 
+Asia,Western Asia,Syrian Arab Republic, 559 ,2008, 3 
+Asia,Western Asia,Turkey," 166,430 ",2008, 236 
+Europe,Eastern Europe,Belarus," 1,442 ",2008, 15 
+Europe,Eastern Europe,Bulgaria," 3,216 ",2008, 43 
+Europe,Eastern Europe,Czech Republic," 17,875 ",2008, 171 
+Europe,Eastern Europe,Hungary," 12,757 ",2008, 128 
+Europe,Eastern Europe,Republic of Moldova, 385 ,2008, 9 
+Europe,Eastern Europe,Romania," 9,457 ",2008, 45 
+Europe,Eastern Europe,Russian Federation," 45,436 ",2008, 32 
+Europe,Eastern Europe,Slovakia," 2,702 ",2008, 50 
+Europe,Eastern Europe,Ukraine," 4,984 ",2008, 11 
+Europe,Northern Europe,Denmark," 11,203 ",2008, 204 
+Europe,Northern Europe,Estonia, 140 ,2008, 10 
+Europe,Northern Europe,Finland," 34,778 ",2008, 654 
+Europe,Northern Europe,Iceland, 77 ,2008, 25 
+Europe,Northern Europe,Ireland," 16,186 ",2008, 361 
+Europe,Northern Europe,Latvia," 1,346 ",2008, 62 
+Europe,Northern Europe,Lithuania, 251 ,2008, 8 
+Europe,Northern Europe,Norway," 3,279 ",2008, 69 
+Europe,Northern Europe,Sweden," 84,566 ",2008, 916 
+Europe,Northern Europe,United Kingdom (England and Wales)," 419,119 ",2008, 764 
+Europe,Northern Europe,United Kingdom (Northern Ireland)," 1,549 ",2008, 87 
+Europe,Northern Europe,United Kingdom (Scotland)," 79,892 ",2008," 1,536 "
+Europe,Southern Europe,Albania, 363 ,2008, 12 
+Europe,Southern Europe,Andorra, 105 ,2008, 125 
+Europe,Southern Europe,Bosnia and Herzegovina," 1,474 ",2008, 39 
+Europe,Southern Europe,Croatia," 1,128 ",2008, 26 
+Europe,Southern Europe,Greece," 8,008 ",2008, 70 
+Europe,Southern Europe,Italy," 65,791 ",2008, 111 
+Europe,Southern Europe,Kosovo under UNSCR 1244," 3,376 ",2008, 193 
+Europe,Southern Europe,Malta, 196 ,2008, 48 
+Europe,Southern Europe,Montenegro, 196 ,2008, 32 
+Europe,Southern Europe,Portugal," 33,494 ",2008, 314 
+Europe,Southern Europe,Serbia," 1,582 ",2008, 17 
+Europe,Southern Europe,Slovenia," 2,135 ",2008, 105 
+Europe,Southern Europe,Spain," 72,803 ",2008, 158 
+Europe,Southern Europe,The former Yugoslav Rep. of Macedonia, 213 ,2008, 10 
+Europe,Western Europe,Austria," 3,945 ",2008, 47 
+Europe,Western Europe,Belgium," 76,314 ",2008, 708 
+Europe,Western Europe,France," 187,937 ",2008, 302 
+Europe,Western Europe,Germany," 518,499 ",2008, 639 
+Europe,Western Europe,Liechtenstein, 88 ,2008, 248 
+Europe,Western Europe,Luxembourg," 2,317 ",2008, 478 
+Europe,Western Europe,Netherlands," 69,005 ",2008, 416 
+Europe,Western Europe,Switzerland," 8,893 ",2008, 116 
+Oceania,Australia and New Zealand,Australia," 68,019 ",2008, 319 
+Oceania,Australia and New Zealand,New Zealand," 11,948 ",2008, 279 
+Oceania,Melanesia,Solomon Islands," 1,097 ",2008, 217 
+Africa,Eastern Africa,Burundi, 496 ,2009, 6 
+Africa,Eastern Africa,Kenya," 14,189 ",2009, 35 
+Africa,Eastern Africa,Mauritius, 274 ,2009, 22 
+Africa,Eastern Africa,Mozambique, 526 ,2009, 2 
+Africa,Eastern Africa,Rwanda," 1,985 ",2009, 20 
+Africa,Eastern Africa,Uganda," 17,118 ",2009, 52 
+Africa,Middle Africa,Cameroon," 1,486 ",2009, 8 
+Africa,Middle Africa,Sao Tome and Principe, 5 ,2009, 3 
+Africa,Northern Africa,Algeria," 42,298 ",2009, 119 
+Africa,Northern Africa,Egypt, 134 ,2009, 0 
+Africa,Northern Africa,Morocco," 31,106 ",2009, 97 
+Africa,Southern Africa,Botswana," 15,133 ",2009, 764 
+Africa,Southern Africa,Lesotho," 7,332 ",2009, 363 
+Africa,Western Africa,Nigeria," 14,075 ",2009, 9 
+Africa,Western Africa,Senegal, 291 ,2009, 2 
+Americas,Caribbean,Bahamas," 2,601 ",2009, 733 
+Americas,Caribbean,Barbados," 1,610 ",2009, 578 
+Americas,Caribbean,Grenada," 1,175 ",2009," 1,127 "
+Americas,Caribbean,Puerto Rico," 3,440 ",2009, 92 
+Americas,Caribbean,St. Kitts and Nevis, 148 ,2009, 291 
+Americas,Caribbean,St. Vincent and the Grenadines," 1,220 ",2009," 1,117 "
+Americas,Caribbean,Trinidad and Tobago, 689 ,2009, 52 
+Americas,Central America,Belize, 519 ,2009, 165 
+Americas,Central America,Costa Rica," 7,437 ",2009, 166 
+Americas,Central America,El Salvador," 3,901 ",2009, 64 
+Americas,Central America,Guatemala," 7,603 ",2009, 53 
+Americas,Central America,Mexico," 244,623 ",2009, 212 
+Americas,Central America,Panama," 6,572 ",2009, 184 
+Americas,Northern America,Bermuda, 702 ,2009," 1,092 "
+Americas,Northern America,Canada," 57,002 ",2009, 169 
+Americas,Northern America,United States of America," 812,514 ",2009, 265 
+Americas,South America,Bolivia (Plurinational State of)," 7,229 ",2009, 74 
+Americas,South America,Brazil," 651,879 ",2009, 334 
+Americas,South America,Chile," 23,816 ",2009, 142 
+Americas,South America,Colombia," 55,124 ",2009, 121 
+Americas,South America,Ecuador," 4,078 ",2009, 28 
+Americas,South America,Paraguay," 2,071 ",2009, 34 
+Americas,South America,Peru," 55,291 ",2009, 191 
+Americas,South America,Uruguay, 849 ,2009, 25 
+Asia,Central Asia,Kazakhstan," 1,621 ",2009, 10 
+Asia,Central Asia,Kyrgyzstan, 359 ,2009, 7 
+Asia,Central Asia,Tajikistan," 9,489 ",2009, 127 
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China," 8,136 ",2009, 117 
+Asia,Eastern Asia,Japan," 26,574 ",2009, 21 
+Asia,Eastern Asia,Macao Special Administrative Region of China," 1,879 ",2009, 358 
+Asia,Eastern Asia,Mongolia," 5,770 ",2009, 216 
+Asia,Eastern Asia,Republic of Korea," 315,731 ",2009, 639 
+Asia,South-Eastern Asia,Indonesia," 35,641 ",2009, 15 
+Asia,South-Eastern Asia,Myanmar," 2,886 ",2009, 6 
+Asia,South-Eastern Asia,Singapore, 406 ,2009, 8 
+Asia,South-Eastern Asia,Thailand," 18,359 ",2009, 27 
+Asia,Southern Asia,Bhutan, 37 ,2009, 5 
+Asia,Southern Asia,India," 279,214 ",2009, 23 
+Asia,Southern Asia,Maldives," 1,795 ",2009, 506 
+Asia,Southern Asia,Sri Lanka," 59,267 ",2009, 295 
+Asia,Western Asia,Armenia, 166 ,2009, 6 
+Asia,Western Asia,Azerbaijan, 184 ,2009, 2 
+Asia,Western Asia,Cyprus, 219 ,2009, 20 
+Asia,Western Asia,Georgia, 134 ,2009, 3 
+Asia,Western Asia,Iraq (Central Iraq)," 17,084 ",2009, 67 
+Asia,Western Asia,Kuwait, 686 ,2009, 24 
+Asia,Western Asia,Lebanon," 9,100 ",2009, 218 
+Asia,Western Asia,State of Palestine, 263 ,2009, 7 
+Asia,Western Asia,Turkey," 194,059 ",2009, 272 
+Asia,Western Asia,Yemen, 25 ,2009, 0 
+Europe,Eastern Europe,Belarus," 1,318 ",2009, 14 
+Europe,Eastern Europe,Bulgaria," 3,122 ",2009, 42 
+Europe,Eastern Europe,Czech Republic," 16,887 ",2009, 161 
+Europe,Eastern Europe,Hungary," 12,787 ",2009, 128 
+Europe,Eastern Europe,Poland," 12,559 ",2009, 33 
+Europe,Eastern Europe,Republic of Moldova, 369 ,2009, 9 
+Europe,Eastern Europe,Romania," 9,072 ",2009, 44 
+Europe,Eastern Europe,Russian Federation," 43,112 ",2009, 30 
+Europe,Eastern Europe,Slovakia," 2,618 ",2009, 48 
+Europe,Eastern Europe,Ukraine," 5,103 ",2009, 11 
+Europe,Northern Europe,Denmark," 10,573 ",2009, 191 
+Europe,Northern Europe,Estonia, 106 ,2009, 8 
+Europe,Northern Europe,Finland," 32,878 ",2009, 615 
+Europe,Northern Europe,Iceland, 79 ,2009, 25 
+Europe,Northern Europe,Ireland," 15,580 ",2009, 341 
+Europe,Northern Europe,Latvia," 1,215 ",2009, 57 
+Europe,Northern Europe,Lithuania, 220 ,2009, 7 
+Europe,Northern Europe,Norway," 3,093 ",2009, 64 
+Europe,Northern Europe,Sweden," 86,281 ",2009, 926 
+Europe,Northern Europe,United Kingdom (England and Wales)," 399,713 ",2009, 724 
+Europe,Northern Europe,United Kingdom (Northern Ireland)," 1,605 ",2009, 89 
+Europe,Northern Europe,United Kingdom (Scotland)," 5,621 ",2009, 107 
+Europe,Southern Europe,Albania, 379 ,2009, 13 
+Europe,Southern Europe,Andorra, 128 ,2009, 152 
+Europe,Southern Europe,Croatia," 1,059 ",2009, 24 
+Europe,Southern Europe,Greece," 7,869 ",2009, 69 
+Europe,Southern Europe,Holy See, -   ,2009, -   
+Europe,Southern Europe,Italy," 65,611 ",2009, 110 
+Europe,Southern Europe,Kosovo under UNSCR 1244," 3,539 ",2009, 201 
+Europe,Southern Europe,Malta, 173 ,2009, 42 
+Europe,Southern Europe,Montenegro, 186 ,2009, 30 
+Europe,Southern Europe,Portugal," 33,205 ",2009, 311 
+Europe,Southern Europe,Serbia," 1,442 ",2009, 16 
+Europe,Southern Europe,Slovenia," 2,177 ",2009, 107 
+Europe,Southern Europe,Spain," 80,910 ",2009, 174 
+Europe,Southern Europe,The former Yugoslav Rep. of Macedonia, 228 ,2009, 11 
+Europe,Western Europe,Austria," 4,023 ",2009, 48 
+Europe,Western Europe,Belgium," 77,665 ",2009, 715 
+Europe,Western Europe,France," 220,126 ",2009, 351 
+Europe,Western Europe,Germany," 149,301 ",2009, 184 
+Europe,Western Europe,Liechtenstein, 90 ,2009, 252 
+Europe,Western Europe,Luxembourg," 2,350 ",2009, 474 
+Europe,Western Europe,Netherlands," 65,690 ",2009, 395 
+Europe,Western Europe,Switzerland, 524 ,2009, 7 
+Oceania,Australia and New Zealand,Australia," 71,972 ",2009, 331 
+Oceania,Australia and New Zealand,New Zealand," 11,941 ",2009, 276 
+Africa,Eastern Africa,Burundi, 304 ,2010, 3 
+Africa,Eastern Africa,Kenya," 14,078 ",2010, 34 
+Africa,Eastern Africa,Madagascar," 3,450 ",2010, 16 
+Africa,Eastern Africa,Mauritius, 238 ,2010, 19 
+Africa,Eastern Africa,Rwanda," 2,004 ",2010, 20 
+Africa,Eastern Africa,Uganda," 22,979 ",2010, 68 
+Africa,Middle Africa,Cameroon," 4,917 ",2010, 25 
+Africa,Middle Africa,Sao Tome and Principe, -   ,2010, -   
+Africa,Northern Africa,Algeria," 41,381 ",2010, 115 
+Africa,Northern Africa,Egypt, 156 ,2010, 0 
+Africa,Southern Africa,Botswana," 17,457 ",2010, 866 
+Africa,Western Africa,Cabo Verde," 4,090 ",2010, 814 
+Africa,Western Africa,Nigeria," 18,093 ",2010, 11 
+Africa,Western Africa,Senegal, 305 ,2010, 2 
+Americas,Caribbean,Bahamas," 3,063 ",2010, 849 
+Americas,Caribbean,Barbados," 1,511 ",2010, 540 
+Americas,Caribbean,Grenada," 1,152 ",2010," 1,101 "
+Americas,Caribbean,Jamaica," 1,407 ",2010, 50 
+Americas,Caribbean,Puerto Rico," 2,714 ",2010, 73 
+Americas,Caribbean,St. Kitts and Nevis, 155 ,2010, 301 
+Americas,Caribbean,St. Vincent and the Grenadines," 1,309 ",2010," 1,197 "
+Americas,Caribbean,Trinidad and Tobago, 616 ,2010, 46 
+Americas,Central America,Costa Rica," 7,953 ",2010, 175 
+Americas,Central America,El Salvador," 3,891 ",2010, 63 
+Americas,Central America,Guatemala," 7,452 ",2010, 51 
+Americas,Central America,Mexico," 230,687 ",2010, 197 
+Americas,Central America,Nicaragua," 18,345 ",2010, 320 
+Americas,Central America,Panama," 6,060 ",2010, 166 
+Americas,Northern America,Bermuda, 617 ,2010, 965 
+Americas,Northern America,Canada," 55,436 ",2010, 162 
+Americas,Northern America,United States of America," 781,844 ",2010, 253 
+Americas,South America,Bolivia (Plurinational State of)," 8,451 ",2010, 85 
+Americas,South America,Brazil," 715,702 ",2010, 364 
+Americas,South America,Chile," 22,259 ",2010, 131 
+Americas,South America,Colombia," 53,140 ",2010, 116 
+Americas,South America,Ecuador," 4,505 ",2010, 30 
+Americas,South America,Guyana," 11,182 ",2010," 1,498 "
+Americas,South America,Paraguay," 1,947 ",2010, 31 
+Americas,South America,Peru," 19,053 ",2010, 65 
+Americas,South America,Uruguay, 519 ,2010, 15 
+Asia,Central Asia,Kazakhstan," 1,591 ",2010, 10 
+Asia,Central Asia,Kyrgyzstan, 536 ,2010, 10 
+Asia,Central Asia,Tajikistan," 5,490 ",2010, 72 
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China," 7,602 ",2010, 108 
+Asia,Eastern Asia,Japan," 26,647 ",2010, 21 
+Asia,Eastern Asia,Macao Special Administrative Region of China," 1,836 ",2010, 342 
+Asia,Eastern Asia,Mongolia," 5,821 ",2010, 215 
+Asia,Eastern Asia,Republic of Korea," 292,347 ",2010, 590 
+Asia,South-Eastern Asia,Indonesia," 31,960 ",2010, 13 
+Asia,South-Eastern Asia,Myanmar," 2,681 ",2010, 5 
+Asia,South-Eastern Asia,Singapore, 429 ,2010, 8 
+Asia,South-Eastern Asia,Thailand," 9,112 ",2010, 14 
+Asia,Southern Asia,Bhutan, 67 ,2010, 9 
+Asia,Southern Asia,India," 289,022 ",2010, 23 
+Asia,Southern Asia,Maldives," 1,478 ",2010, 405 
+Asia,Southern Asia,Pakistan," 35,573 ",2010, 21 
+Asia,Southern Asia,Sri Lanka," 64,616 ",2010, 320 
+Asia,Western Asia,Armenia, 155 ,2010, 5 
+Asia,Western Asia,Azerbaijan, 172 ,2010, 2 
+Asia,Western Asia,Cyprus, 173 ,2010, 16 
+Asia,Western Asia,Georgia, 126 ,2010, 3 
+Asia,Western Asia,Iraq (Central Iraq)," 25,847 ",2010, 98 
+Asia,Western Asia,Israel," 46,007 ",2010, 620 
+Asia,Western Asia,Lebanon," 9,496 ",2010, 219 
+Asia,Western Asia,State of Palestine, 286 ,2010, 7 
+Asia,Western Asia,Turkey," 220,882 ",2010, 305 
+Europe,Eastern Europe,Belarus," 1,158 ",2010, 12 
+Europe,Eastern Europe,Bulgaria," 3,038 ",2010, 41 
+Europe,Eastern Europe,Czech Republic," 18,073 ",2010, 172 
+Europe,Eastern Europe,Hungary," 14,569 ",2010, 147 
+Europe,Eastern Europe,Poland," 11,011 ",2010, 29 
+Europe,Eastern Europe,Republic of Moldova, 416 ,2010, 10 
+Europe,Eastern Europe,Romania," 12,301 ",2010, 60 
+Europe,Eastern Europe,Russian Federation," 30,403 ",2010, 21 
+Europe,Eastern Europe,Slovakia," 2,426 ",2010, 45 
+Europe,Eastern Europe,Ukraine," 4,029 ",2010, 9 
+Europe,Northern Europe,Denmark," 1,753 ",2010, 32 
+Europe,Northern Europe,Estonia, 103 ,2010, 8 
+Europe,Northern Europe,Finland," 1,996 ",2010, 37 
+Europe,Northern Europe,Iceland, 57 ,2010, 18 
+Europe,Northern Europe,Ireland," 15,038 ",2010, 325 
+Europe,Northern Europe,Latvia," 1,226 ",2010, 58 
+Europe,Northern Europe,Lithuania, 245 ,2010, 8 
+Europe,Northern Europe,Norway," 2,925 ",2010, 60 
+Europe,Northern Europe,Sweden," 5,594 ",2010, 60 
+Europe,Northern Europe,United Kingdom (England and Wales)," 366,878 ",2010, 659 
+Europe,Northern Europe,United Kingdom (Northern Ireland)," 1,451 ",2010, 80 
+Europe,Northern Europe,United Kingdom (Scotland)," 5,493 ",2010, 104 
+Europe,Southern Europe,Albania, 178 ,2010, 6 
+Europe,Southern Europe,Andorra, 98 ,2010, 116 
+Europe,Southern Europe,Bosnia and Herzegovina, 505 ,2010, 14 
+Europe,Southern Europe,Croatia, 986 ,2010, 23 
+Europe,Southern Europe,Greece," 1,101 ",2010, 10 
+Europe,Southern Europe,Holy See, -   ,2010, -   
+Europe,Southern Europe,Italy," 64,866 ",2010, 109 
+Europe,Southern Europe,Kosovo under UNSCR 1244," 3,760 ",2010, 212 
+Europe,Southern Europe,Malta, 180 ,2010, 43 
+Europe,Southern Europe,Montenegro, 193 ,2010, 31 
+Europe,Southern Europe,Portugal, 863 ,2010, 8 
+Europe,Southern Europe,Serbia," 1,391 ",2010, 15 
+Europe,Southern Europe,Slovenia," 2,182 ",2010, 107 
+Europe,Southern Europe,Spain," 25,077 ",2010, 54 
+Europe,Southern Europe,The former Yugoslav Rep. of Macedonia, 248 ,2010, 12 
+Europe,Western Europe,Austria," 3,606 ",2010, 43 
+Europe,Western Europe,Belgium," 77,758 ",2010, 711 
+Europe,Western Europe,France," 231,909 ",2010, 368 
+Europe,Western Europe,Germany," 142,903 ",2010, 177 
+Europe,Western Europe,Liechtenstein, 77 ,2010, 214 
+Europe,Western Europe,Luxembourg," 2,475 ",2010, 487 
+Europe,Western Europe,Netherlands," 60,280 ",2010, 361 
+Europe,Western Europe,Switzerland, 487 ,2010, 6 
+Oceania,Australia and New Zealand,Australia," 68,665 ",2010, 310 
+Oceania,Australia and New Zealand,New Zealand," 11,260 ",2010, 258 
+Africa,Eastern Africa,Burundi, 499 ,2011, 6 
+Africa,Eastern Africa,Kenya," 14,366 ",2011, 34 
+Africa,Eastern Africa,Madagascar," 3,434 ",2011, 16 
+Africa,Eastern Africa,Mauritius, 230 ,2011, 18 
+Africa,Eastern Africa,Rwanda," 2,526 ",2011, 24 
+Africa,Eastern Africa,Uganda," 19,023 ",2011, 54 
+Africa,Middle Africa,Cameroon," 5,281 ",2011, 26 
+Africa,Middle Africa,Sao Tome and Principe, 4 ,2011, 2 
+Africa,Northern Africa,Algeria," 45,548 ",2011, 124 
+Africa,Northern Africa,Egypt, 339 ,2011, 0 
+Africa,Southern Africa,Botswana," 16,098 ",2011, 785 
+Africa,Western Africa,Cabo Verde," 4,030 ",2011, 793 
+Americas,Caribbean,Bahamas," 3,268 ",2011, 892 
+Americas,Caribbean,Barbados," 1,312 ",2011, 468 
+Americas,Caribbean,Grenada," 1,236 ",2011," 1,176 "
+Americas,Caribbean,Puerto Rico," 2,894 ",2011, 78 
+Americas,Caribbean,St. Kitts and Nevis, 137 ,2011, 263 
+Americas,Caribbean,St. Vincent and the Grenadines," 1,245 ",2011," 1,139 "
+Americas,Caribbean,Trinidad and Tobago, 535 ,2011, 40 
+Americas,Central America,Costa Rica," 7,361 ",2011, 160 
+Americas,Central America,El Salvador," 3,681 ",2011, 59 
+Americas,Central America,Guatemala," 6,237 ",2011, 42 
+Americas,Central America,Honduras," 3,645 ",2011, 44 
+Americas,Central America,Mexico," 212,141 ",2011, 178 
+Americas,Central America,Panama," 5,784 ",2011, 156 
+Americas,Northern America,Bermuda, 559 ,2011, 879 
+Americas,Northern America,Canada," 53,957 ",2011, 156 
+Americas,Northern America,United States of America," 752,423 ",2011, 242 
+Americas,South America,Bolivia (Plurinational State of)," 6,692 ",2011, 66 
+Americas,South America,Brazil," 717,185 ",2011, 361 
+Americas,South America,Chile," 22,963 ",2011, 134 
+Americas,South America,Colombia," 62,185 ",2011, 134 
+Americas,South America,Ecuador," 6,309 ",2011, 42 
+Americas,South America,Paraguay," 2,012 ",2011, 32 
+Americas,South America,Peru," 20,717 ",2011, 70 
+Americas,South America,Uruguay, 514 ,2011, 15 
+Asia,Central Asia,Kazakhstan," 1,962 ",2011, 12 
+Asia,Central Asia,Kyrgyzstan, 482 ,2011, 9 
+Asia,Central Asia,Tajikistan," 3,735 ",2011, 48 
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China," 7,362 ",2011, 104 
+Asia,Eastern Asia,Japan," 25,928 ",2011, 20 
+Asia,Eastern Asia,Macao Special Administrative Region of China," 1,728 ",2011, 315 
+Asia,Eastern Asia,Mongolia," 5,838 ",2011, 211 
+Asia,Eastern Asia,Republic of Korea," 311,862 ",2011, 627 
+Asia,South-Eastern Asia,Indonesia," 35,800 ",2011, 15 
+Asia,South-Eastern Asia,Myanmar," 2,228 ",2011, 4 
+Asia,South-Eastern Asia,Singapore, 406 ,2011, 8 
+Asia,South-Eastern Asia,Thailand," 13,322 ",2011, 20 
+Asia,Southern Asia,Bhutan, 37 ,2011, 5 
+Asia,Southern Asia,India," 302,847 ",2011, 24 
+Asia,Southern Asia,Maldives," 1,249 ",2011, 333 
+Asia,Southern Asia,Pakistan," 36,204 ",2011, 21 
+Asia,Southern Asia,Sri Lanka," 66,474 ",2011, 327 
+Asia,Western Asia,Armenia, 161 ,2011, 6 
+Asia,Western Asia,Azerbaijan, 153 ,2011, 2 
+Asia,Western Asia,Cyprus, 164 ,2011, 15 
+Asia,Western Asia,Iraq (Central Iraq)," 28,344 ",2011, 104 
+Asia,Western Asia,Israel," 43,069 ",2011, 569 
+Asia,Western Asia,Lebanon," 8,956 ",2011, 195 
+Asia,Western Asia,State of Palestine, 340 ,2011, 8 
+Asia,Western Asia,Turkey," 238,395 ",2011, 325 
+Europe,Eastern Europe,Belarus," 1,003 ",2011, 11 
+Europe,Eastern Europe,Bulgaria," 2,462 ",2011, 33 
+Europe,Eastern Europe,Czech Republic," 19,409 ",2011, 184 
+Europe,Eastern Europe,Hungary," 14,212 ",2011, 144 
+Europe,Eastern Europe,Poland," 10,703 ",2011, 28 
+Europe,Eastern Europe,Republic of Moldova, 360 ,2011, 9 
+Europe,Eastern Europe,Romania," 12,299 ",2011, 61 
+Europe,Eastern Europe,Russian Federation," 29,647 ",2011, 21 
+Europe,Eastern Europe,Slovakia," 2,227 ",2011, 41 
+Europe,Northern Europe,Denmark," 1,696 ",2011, 30 
+Europe,Northern Europe,Estonia, 104 ,2011, 8 
+Europe,Northern Europe,Finland," 2,953 ",2011, 55 
+Europe,Northern Europe,Iceland, 60 ,2011, 19 
+Europe,Northern Europe,Ireland," 14,709 ",2011, 315 
+Europe,Northern Europe,Latvia," 1,161 ",2011, 55 
+Europe,Northern Europe,Lithuania, 206 ,2011, 7 
+Europe,Northern Europe,Norway," 2,837 ",2011, 57 
+Europe,Northern Europe,Sweden," 5,684 ",2011, 60 
+Europe,Northern Europe,United Kingdom (England and Wales)," 336,867 ",2011, 600 
+Europe,Northern Europe,United Kingdom (Northern Ireland)," 1,446 ",2011, 80 
+Europe,Northern Europe,United Kingdom (Scotland)," 4,693 ",2011, 89 
+Europe,Southern Europe,Albania, 169 ,2011, 6 
+Europe,Southern Europe,Andorra, 144 ,2011, 172 
+Europe,Southern Europe,Bosnia and Herzegovina, 652 ,2011, 18 
+Europe,Southern Europe,Croatia, 873 ,2011, 20 
+Europe,Southern Europe,Greece," 1,425 ",2011, 12 
+Europe,Southern Europe,Holy See, -   ,2011, -   
+Europe,Southern Europe,Italy," 68,500 ",2011, 115 
+Europe,Southern Europe,Kosovo under UNSCR 1244," 3,743 ",2011, 209 
+Europe,Southern Europe,Malta, 181 ,2011, 43 
+Europe,Southern Europe,Montenegro, 161 ,2011, 26 
+Europe,Southern Europe,Portugal, 812 ,2011, 8 
+Europe,Southern Europe,Serbia," 1,309 ",2011, 15 
+Europe,Southern Europe,Slovenia," 1,974 ",2011, 96 
+Europe,Southern Europe,Spain," 18,290 ",2011, 39 
+Europe,Southern Europe,The former Yugoslav Rep. of Macedonia, 239 ,2011, 12 
+Europe,Western Europe,Austria," 3,897 ",2011, 46 
+Europe,Western Europe,Belgium," 78,778 ",2011, 715 
+Europe,Western Europe,France," 231,307 ",2011, 365 
+Europe,Western Europe,Germany," 139,091 ",2011, 172 
+Europe,Western Europe,Liechtenstein, 78 ,2011, 215 
+Europe,Western Europe,Luxembourg," 2,744 ",2011, 528 
+Europe,Western Europe,Netherlands," 59,425 ",2011, 355 
+Europe,Western Europe,Switzerland, 487 ,2011, 6 
+Oceania,Australia and New Zealand,Australia," 66,103 ",2011, 294 
+Oceania,Australia and New Zealand,New Zealand," 10,806 ",2011, 245 
+Africa,Eastern Africa,Burundi, 455 ,2012, 5 
+Africa,Eastern Africa,Kenya," 14,534 ",2012, 33 
+Africa,Eastern Africa,Madagascar," 2,115 ",2012, 9 
+Africa,Eastern Africa,Rwanda," 3,177 ",2012, 29 
+Africa,Eastern Africa,Uganda," 18,030 ",2012, 50 
+Africa,Middle Africa,Cameroon," 5,764 ",2012, 27 
+Africa,Northern Africa,Algeria," 52,287 ",2012, 139 
+Africa,Northern Africa,Morocco," 29,439 ",2012, 88 
+Africa,Western Africa,Cabo Verde," 4,116 ",2012, 801 
+Africa,Western Africa,Nigeria," 15,388 ",2012, 9 
+Americas,Caribbean,Bahamas," 3,132 ",2012, 842 
+Americas,Caribbean,Barbados," 1,468 ",2012, 521 
+Americas,Caribbean,Dominican Republic," 5,937 ",2012, 58 
+Americas,Caribbean,Grenada," 1,313 ",2012," 1,245 "
+Americas,Caribbean,Jamaica," 5,684 ",2012, 200 
+Americas,Caribbean,Puerto Rico," 2,733 ",2012, 74 
+Americas,Caribbean,St. Vincent and the Grenadines," 1,112 ",2012," 1,017 "
+Americas,Caribbean,Trinidad and Tobago, 579 ,2012, 43 
+Americas,Central America,Belize, 923 ,2012, 274 
+Americas,Central America,Costa Rica," 6,477 ",2012, 139 
+Americas,Central America,El Salvador," 4,228 ",2012, 68 
+Americas,Central America,Guatemala," 6,086 ",2012, 40 
+Americas,Central America,Honduras," 2,027 ",2012, 24 
+Americas,Central America,Mexico," 211,921 ",2012, 175 
+Americas,Central America,Panama," 5,461 ",2012, 145 
+Americas,Northern America,Bermuda, 552 ,2012, 874 
+Americas,Northern America,Canada," 53,339 ",2012, 153 
+Americas,Northern America,United States of America," 762,009 ",2012, 243 
+Americas,South America,Bolivia (Plurinational State of)," 7,426 ",2012, 73 
+Americas,South America,Brazil," 732,913 ",2012, 365 
+Americas,South America,Chile," 19,813 ",2012, 114 
+Americas,South America,Colombia," 82,181 ",2012, 175 
+Americas,South America,Ecuador," 8,242 ",2012, 53 
+Americas,South America,Guyana," 9,867 ",2012," 1,310 "
+Americas,South America,Paraguay," 2,024 ",2012, 32 
+Americas,South America,Peru," 25,022 ",2012, 83 
+Americas,South America,Uruguay, 469 ,2012, 14 
+Asia,Central Asia,Kazakhstan," 1,666 ",2012, 10 
+Asia,Central Asia,Kyrgyzstan, 414 ,2012, 7 
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China," 7,332 ",2012, 103 
+Asia,Eastern Asia,Japan," 28,058 ",2012, 22 
+Asia,Eastern Asia,Macao Special Administrative Region of China," 1,754 ",2012, 312 
+Asia,Eastern Asia,Mongolia," 6,546 ",2012, 233 
+Asia,Eastern Asia,Republic of Korea," 62,257 ",2012, 125 
+Asia,South-Eastern Asia,Indonesia," 30,901 ",2012, 12 
+Asia,South-Eastern Asia,Myanmar," 2,312 ",2012, 5 
+Asia,South-Eastern Asia,Singapore, 452 ,2012, 9 
+Asia,South-Eastern Asia,Thailand," 13,654 ",2012, 20 
+Asia,Southern Asia,Bhutan, 45 ,2012, 6 
+Asia,Southern Asia,India," 332,324 ",2012, 26 
+Asia,Southern Asia,Maldives," 1,264 ",2012, 327 
+Asia,Southern Asia,Pakistan," 32,194 ",2012, 18 
+Asia,Southern Asia,Sri Lanka," 66,137 ",2012, 324 
+Asia,Western Asia,Armenia, 157 ,2012, 5 
+Asia,Western Asia,Azerbaijan, 132 ,2012, 1 
+Asia,Western Asia,Cyprus, 148 ,2012, 13 
+Asia,Western Asia,Iraq (Central Iraq)," 32,954 ",2012, 117 
+Asia,Western Asia,Lebanon," 8,658 ",2012, 176 
+Asia,Western Asia,State of Palestine, 347 ,2012, 8 
+Asia,Western Asia,Turkey," 262,330 ",2012, 352 
+Asia,Western Asia,United Arab Emirates, 378 ,2012, 4 
+Europe,Eastern Europe,Belarus, 907 ,2012, 10 
+Europe,Eastern Europe,Bulgaria," 2,410 ",2012, 33 
+Europe,Eastern Europe,Czech Republic," 18,358 ",2012, 173 
+Europe,Eastern Europe,Hungary," 13,973 ",2012, 142 
+Europe,Eastern Europe,Poland," 9,721 ",2012, 25 
+Europe,Eastern Europe,Republic of Moldova, 325 ,2012, 8 
+Europe,Eastern Europe,Romania," 17,219 ",2012, 85 
+Europe,Eastern Europe,Russian Federation," 29,045 ",2012, 20 
+Europe,Eastern Europe,Slovakia," 2,183 ",2012, 40 
+Europe,Northern Europe,Denmark," 9,557 ",2012, 170 
+Europe,Northern Europe,Estonia, 99 ,2012, 7 
+Europe,Northern Europe,Finland," 1,874 ",2012, 35 
+Europe,Northern Europe,Iceland, 74 ,2012, 23 
+Europe,Northern Europe,Ireland," 13,566 ",2012, 290 
+Europe,Northern Europe,Latvia," 1,325 ",2012, 64 
+Europe,Northern Europe,Lithuania, 178 ,2012, 6 
+Europe,Northern Europe,Norway," 2,781 ",2012, 55 
+Europe,Northern Europe,Sweden," 5,338 ",2012, 56 
+Europe,Northern Europe,United Kingdom (England and Wales)," 310,953 ",2012, 550 
+Europe,Northern Europe,United Kingdom (Northern Ireland)," 1,278 ",2012, 70 
+Europe,Northern Europe,United Kingdom (Scotland)," 3,643 ",2012, 69 
+Europe,Southern Europe,Albania, 156 ,2012, 5 
+Europe,Southern Europe,Andorra, 163 ,2012, 198 
+Europe,Southern Europe,Bosnia and Herzegovina, 618 ,2012, 17 
+Europe,Southern Europe,Croatia, 903 ,2012, 21 
+Europe,Southern Europe,Greece," 1,692 ",2012, 15 
+Europe,Southern Europe,Holy See, -   ,2012, -   
+Europe,Southern Europe,Italy," 69,527 ",2012, 116 
+Europe,Southern Europe,Kosovo under UNSCR 1244," 3,805 ",2012, 211 
+Europe,Southern Europe,Malta, 174 ,2012, 41 
+Europe,Southern Europe,Montenegro, 168 ,2012, 27 
+Europe,Southern Europe,Portugal, 701 ,2012, 7 
+Europe,Southern Europe,Serbia," 1,323 ",2012, 15 
+Europe,Southern Europe,Slovenia," 2,032 ",2012, 99 
+Europe,Southern Europe,Spain," 17,353 ",2012, 37 
+Europe,Southern Europe,The former Yugoslav Rep. of Macedonia, 211 ,2012, 10 
+Europe,Western Europe,Austria," 4,030 ",2012, 47 
+Europe,Western Europe,Belgium," 72,312 ",2012, 652 
+Europe,Western Europe,France," 231,733 ",2012, 364 
+Europe,Western Europe,Germany," 136,077 ",2012, 168 
+Europe,Western Europe,Liechtenstein, 69 ,2012, 189 
+Europe,Western Europe,Luxembourg," 2,994 ",2012, 562 
+Europe,Western Europe,Netherlands," 57,300 ",2012, 341 
+Europe,Western Europe,Switzerland, 597 ,2012, 7 
+Oceania,Australia and New Zealand,Australia," 63,709 ",2012, 279 
+Oceania,Australia and New Zealand,New Zealand," 10,165 ",2012, 228 
+Africa,Eastern Africa,Burundi, 431 ,2013, 4 
+Africa,Eastern Africa,Kenya," 13,674 ",2013, 31 
+Africa,Eastern Africa,Madagascar," 2,744 ",2013, 12 
+Africa,Eastern Africa,Rwanda," 3,299 ",2013, 30 
+Africa,Eastern Africa,Uganda," 16,702 ",2013, 44 
+Africa,Middle Africa,Cameroon," 5,630 ",2013, 26 
+Africa,Northern Africa,Algeria," 54,472 ",2013, 142 
+Africa,Northern Africa,Morocco," 67,763 ",2013, 200 
+Africa,Western Africa,Cabo Verde," 4,013 ",2013, 772 
+Africa,Western Africa,Nigeria," 16,487 ",2013, 10 
+Americas,Caribbean,Barbados," 1,250 ",2013, 442 
+Americas,Caribbean,Dominican Republic," 3,833 ",2013, 37 
+Americas,Caribbean,Grenada," 1,394 ",2013," 1,316 "
+Americas,Caribbean,Jamaica," 4,941 ",2013, 173 
+Americas,Caribbean,Puerto Rico," 2,395 ",2013, 65 
+Americas,Caribbean,Trinidad and Tobago, 542 ,2013, 40 
+Americas,Central America,Costa Rica," 8,221 ",2013, 175 
+Americas,Central America,El Salvador," 4,322 ",2013, 69 
+Americas,Central America,Guatemala," 2,786 ",2013, 18 
+Americas,Central America,Honduras," 1,734 ",2013, 20 
+Americas,Central America,Mexico," 32,202 ",2013, 26 
+Americas,Central America,Panama," 4,236 ",2013, 110 
+Americas,Northern America,Bermuda, 56 ,2013, 89 
+Americas,Northern America,Canada," 49,260 ",2013, 140 
+Americas,Northern America,United States of America," 726,800 ",2013, 230 
+Americas,South America,Bolivia (Plurinational State of)," 12,625 ",2013, 121 
+Americas,South America,Brazil," 661,494 ",2013, 327 
+Americas,South America,Chile," 14,313 ",2013, 82 
+Americas,South America,Colombia," 167,111 ",2013, 353 
+Americas,South America,Ecuador," 8,560 ",2013, 55 
+Americas,South America,Guyana," 6,501 ",2013, 858 
+Americas,South America,Paraguay, 837 ,2013, 13 
+Americas,South America,Peru," 26,163 ",2013, 86 
+Americas,South America,Uruguay, 426 ,2013, 12 
+Asia,Central Asia,Kazakhstan," 1,361 ",2013, 8 
+Asia,Central Asia,Kyrgyzstan, 306 ,2013, 5 
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China," 6,623 ",2013, 93 
+Asia,Eastern Asia,Japan," 27,864 ",2013, 22 
+Asia,Eastern Asia,Macao Special Administrative Region of China," 1,700 ",2013, 295 
+Asia,Eastern Asia,Mongolia," 7,564 ",2013, 264 
+Asia,Eastern Asia,Republic of Korea," 55,884 ",2013, 111 
+Asia,South-Eastern Asia,Indonesia," 35,153 ",2013, 14 
+Asia,South-Eastern Asia,Myanmar," 5,003 ",2013, 10 
+Asia,South-Eastern Asia,Singapore, 476 ,2013, 9 
+Asia,South-Eastern Asia,Thailand," 12,491 ",2013, 18 
+Asia,Southern Asia,Bhutan, 13 ,2013, 2 
+Asia,Southern Asia,India," 334,669 ",2013, 26 
+Asia,Southern Asia,Maldives," 1,289 ",2013, 324 
+Asia,Southern Asia,Pakistan," 32,223 ",2013, 18 
+Asia,Southern Asia,Sri Lanka," 4,098 ",2013, 20 
+Asia,Western Asia,Armenia, 176 ,2013, 6 
+Asia,Western Asia,Azerbaijan, 132 ,2013, 1 
+Asia,Western Asia,Cyprus, 132 ,2013, 12 
+Asia,Western Asia,Iraq (Central Iraq)," 27,935 ",2013, 96 
+Asia,Western Asia,Lebanon," 8,222 ",2013, 156 
+Asia,Western Asia,Turkey," 74,938 ",2013, 99 
+Asia,Western Asia,United Arab Emirates, 311 ,2013, 3 
+Europe,Eastern Europe,Belarus, 852 ,2013, 9 
+Europe,Eastern Europe,Bulgaria," 2,470 ",2013, 34 
+Europe,Eastern Europe,Czech Republic," 18,689 ",2013, 176 
+Europe,Eastern Europe,Hungary," 13,377 ",2013, 136 
+Europe,Eastern Europe,Poland," 9,118 ",2013, 24 
+Europe,Eastern Europe,Republic of Moldova, 324 ,2013, 8 
+Europe,Eastern Europe,Romania," 17,572 ",2013, 88 
+Europe,Eastern Europe,Russian Federation," 30,453 ",2013, 21 
+Europe,Eastern Europe,Slovakia," 2,017 ",2013, 37 
+Europe,Northern Europe,Denmark," 1,503 ",2013, 27 
+Europe,Northern Europe,Estonia, 99 ,2013, 7 
+Europe,Northern Europe,Finland," 1,791 ",2013, 33 
+Europe,Northern Europe,Iceland, 92 ,2013, 28 
+Europe,Northern Europe,Ireland," 3,089 ",2013, 66 
+Europe,Northern Europe,Latvia, 458 ,2013, 22 
+Europe,Northern Europe,Lithuania, 211 ,2013, 7 
+Europe,Northern Europe,Norway," 2,566 ",2013, 51 
+Europe,Northern Europe,Sweden," 4,659 ",2013, 48 
+Europe,Northern Europe,United Kingdom (England and Wales)," 321,535 ",2013, 565 
+Europe,Northern Europe,United Kingdom (Northern Ireland)," 1,093 ",2013, 60 
+Europe,Northern Europe,United Kingdom (Scotland)," 2,951 ",2013, 55 
+Europe,Southern Europe,Albania, 163 ,2013, 6 
+Europe,Southern Europe,Andorra, 90 ,2013, 111 
+Europe,Southern Europe,Bosnia and Herzegovina, 577 ,2013, 16 
+Europe,Southern Europe,Croatia, 823 ,2013, 19 
+Europe,Southern Europe,Greece," 1,610 ",2013, 14 
+Europe,Southern Europe,Holy See, -   ,2013, -   
+Europe,Southern Europe,Italy," 66,317 ",2013, 111 
+Europe,Southern Europe,Kosovo under UNSCR 1244, 653 ,2013, 36 
+Europe,Southern Europe,Malta, 218 ,2013, 52 
+Europe,Southern Europe,Montenegro, 173 ,2013, 28 
+Europe,Southern Europe,Portugal, 580 ,2013, 6 
+Europe,Southern Europe,Serbia," 1,750 ",2013, 20 
+Europe,Southern Europe,Slovenia," 1,849 ",2013, 89 
+Europe,Southern Europe,Spain," 16,701 ",2013, 36 
+Europe,Southern Europe,The former Yugoslav Rep. of Macedonia, 216 ,2013, 10 
+Europe,Western Europe,Austria," 3,327 ",2013, 39 
+Europe,Western Europe,Belgium," 69,746 ",2013, 625 
+Europe,Western Europe,France," 233,304 ",2013, 365 
+Europe,Western Europe,Germany," 127,869 ",2013, 157 
+Europe,Western Europe,Liechtenstein, 103 ,2013, 280 
+Europe,Western Europe,Luxembourg," 3,018 ",2013, 554 
+Europe,Western Europe,Netherlands," 5,581 ",2013, 33 
+Europe,Western Europe,Switzerland, 568 ,2013, 7 
+Oceania,Australia and New Zealand,Australia," 66,211 ",2013, 286 
+Oceania,Australia and New Zealand,New Zealand," 8,951 ",2013, 198 
+Africa,Eastern Africa,Burundi, 549 ,2014, 6 
+Africa,Eastern Africa,Kenya," 13,949 ",2014, 30 
+Africa,Eastern Africa,Madagascar," 2,542 ",2014, 11 
+Africa,Eastern Africa,Uganda," 14,509 ",2014, 37 
+Africa,Eastern Africa,United Republic of Tanzania," 1,834 ",2014, 4 
+Africa,Middle Africa,Cameroon," 7,175 ",2014, 32 
+Africa,Northern Africa,Algeria," 53,853 ",2014, 138 
+Africa,Southern Africa,Botswana," 16,847 ",2014, 777 
+Africa,Western Africa,Cabo Verde," 4,117 ",2014, 782 
+Americas,Caribbean,Barbados," 1,465 ",2014, 517 
+Americas,Caribbean,Dominican Republic," 4,275 ",2014, 41 
+Americas,Caribbean,Grenada," 1,428 ",2014," 1,343 "
+Americas,Caribbean,Jamaica," 3,918 ",2014, 137 
+Americas,Caribbean,Puerto Rico," 2,475 ",2014, 67 
+Americas,Caribbean,Trinidad and Tobago, 558 ,2014, 41 
+Americas,Central America,Belize," 1,042 ",2014, 296 
+Americas,Central America,El Salvador," 3,920 ",2014, 62 
+Americas,Central America,Guatemala," 2,417 ",2014, 15 
+Americas,Central America,Honduras," 1,497 ",2014, 17 
+Americas,Central America,Mexico," 39,937 ",2014, 32 
+Americas,Central America,Panama," 4,063 ",2014, 104 
+Americas,Northern America,Bermuda, 61 ,2014, 98 
+Americas,Northern America,Canada," 48,369 ",2014, 136 
+Americas,Northern America,United States of America," 731,100 ",2014, 230 
+Americas,South America,Argentina," 178,611 ",2014, 416 
+Americas,South America,Bolivia (Plurinational State of)," 9,513 ",2014, 90 
+Americas,South America,Chile," 13,359 ",2014, 76 
+Americas,South America,Colombia," 167,645 ",2014, 351 
+Americas,South America,Ecuador," 7,430 ",2014, 47 
+Americas,South America,Paraguay, 779 ,2014, 12 
+Americas,South America,Peru," 24,806 ",2014, 80 
+Americas,South America,Uruguay, 470 ,2014, 14 
+Asia,Central Asia,Kazakhstan, 957 ,2014, 5 
+Asia,Central Asia,Kyrgyzstan, 380 ,2014, 7 
+Asia,Eastern Asia,Japan," 26,653 ",2014, 21 
+Asia,Eastern Asia,Macao Special Administrative Region of China," 1,783 ",2014, 303 
+Asia,Eastern Asia,Mongolia," 8,132 ",2014, 278 
+Asia,Eastern Asia,Republic of Korea," 50,281 ",2014, 100 
+Asia,South-Eastern Asia,Indonesia," 36,980 ",2014, 14 
+Asia,South-Eastern Asia,Myanmar," 5,190 ",2014, 10 
+Asia,South-Eastern Asia,Singapore, 513 ,2014, 9 
+Asia,South-Eastern Asia,Thailand," 12,675 ",2014, 19 
+Asia,Southern Asia,Pakistan," 33,432 ",2014, 18 
+Asia,Southern Asia,Sri Lanka," 4,037 ",2014, 20 
+Asia,Western Asia,Armenia, 198 ,2014, 7 
+Asia,Western Asia,Azerbaijan, 160 ,2014, 2 
+Asia,Western Asia,Cyprus, 134 ,2014, 12 
+Asia,Western Asia,Georgia, 228 ,2014, 6 
+Asia,Western Asia,Iraq (Central Iraq)," 25,008 ",2014, 83 
+Asia,Western Asia,Lebanon," 8,514 ",2014, 152 
+Asia,Western Asia,Turkey," 79,405 ",2014, 103 
+Asia,Western Asia,United Arab Emirates, 316 ,2014, 3 
+Europe,Eastern Europe,Belarus, 830 ,2014, 9 
+Europe,Eastern Europe,Bulgaria," 2,533 ",2014, 35 
+Europe,Eastern Europe,Czech Republic," 16,949 ",2014, 160 
+Europe,Eastern Europe,Hungary," 13,475 ",2014, 137 
+Europe,Eastern Europe,Poland," 8,248 ",2014, 22 
+Europe,Eastern Europe,Republic of Moldova, 320 ,2014, 8 
+Europe,Eastern Europe,Romania," 2,279 ",2014, 11 
+Europe,Eastern Europe,Russian Federation," 29,286 ",2014, 20 
+Europe,Eastern Europe,Slovakia," 1,957 ",2014, 36 
+Europe,Northern Europe,Denmark," 1,533 ",2014, 27 
+Europe,Northern Europe,Estonia, 77 ,2014, 6 
+Europe,Northern Europe,Finland," 1,645 ",2014, 30 
+Europe,Northern Europe,Iceland, 101 ,2014, 31 
+Europe,Northern Europe,Ireland," 3,160 ",2014, 67 
+Europe,Northern Europe,Latvia, 569 ,2014, 28 
+Europe,Northern Europe,Lithuania, 204 ,2014, 7 
+Europe,Northern Europe,Norway," 2,377 ",2014, 46 
+Europe,Northern Europe,Sweden," 4,570 ",2014, 47 
+Europe,Northern Europe,United Kingdom (England and Wales)," 372,731 ",2014, 649 
+Europe,Northern Europe,United Kingdom (Northern Ireland)," 1,172 ",2014, 64 
+Europe,Northern Europe,United Kingdom (Scotland)," 2,903 ",2014, 54 
+Europe,Southern Europe,Albania, 132 ,2014, 5 
+Europe,Southern Europe,Andorra, 123 ,2014, 155 
+Europe,Southern Europe,Bosnia and Herzegovina, 592 ,2014, 17 
+Europe,Southern Europe,Croatia, 766 ,2014, 18 
+Europe,Southern Europe,Greece," 1,459 ",2014, 13 
+Europe,Southern Europe,Holy See, -   ,2014, -   
+Europe,Southern Europe,Italy," 66,178 ",2014, 111 
+Europe,Southern Europe,Kosovo under UNSCR 1244, 911 ,2014, 50 
+Europe,Southern Europe,Malta, 160 ,2014, 38 
+Europe,Southern Europe,Montenegro, 129 ,2014, 21 
+Europe,Southern Europe,Portugal, 542 ,2014, 5 
+Europe,Southern Europe,Serbia," 1,506 ",2014, 17 
+Europe,Southern Europe,Slovenia," 1,657 ",2014, 80 
+Europe,Southern Europe,Spain," 16,776 ",2014, 36 
+Europe,Southern Europe,The former Yugoslav Rep. of Macedonia, 215 ,2014, 10 
+Europe,Western Europe,Austria," 3,230 ",2014, 37 
+Europe,Western Europe,Belgium," 70,238 ",2014, 626 
+Europe,Western Europe,France," 237,916 ",2014, 371 
+Europe,Western Europe,Germany," 125,752 ",2014, 154 
+Europe,Western Europe,Liechtenstein, 120 ,2014, 323 
+Europe,Western Europe,Luxembourg," 3,187 ",2014, 573 
+Europe,Western Europe,Monaco, 154 ,2014, 404 
+Europe,Western Europe,Netherlands," 5,340 ",2014, 32 
+Europe,Western Europe,Switzerland, 609 ,2014, 7 
+Oceania,Australia and New Zealand,Australia," 66,861 ",2014, 285 
+Oceania,Australia and New Zealand,New Zealand," 9,900 ",2014, 217 
+Africa,Eastern Africa,Kenya," 14,921 ",2015, 32 
+Africa,Eastern Africa,Madagascar," 2,189 ",2015, 9 
+Africa,Eastern Africa,United Republic of Tanzania," 2,361 ",2015, 4 
+Africa,Middle Africa,Cameroon," 4,804 ",2015, 21 
+Africa,Northern Africa,Algeria," 49,091 ",2015, 123 
+Africa,Northern Africa,Morocco," 56,275 ",2015, 162 
+Africa,Western Africa,Cabo Verde," 4,205 ",2015, 789 
+Americas,Caribbean,Barbados," 1,474 ",2015, 519 
+Americas,Caribbean,Dominican Republic," 3,889 ",2015, 37 
+Americas,Caribbean,Grenada, 494 ,2015, 462 
+Americas,Caribbean,Jamaica," 2,933 ",2015, 102 
+Americas,Caribbean,Puerto Rico," 2,960 ",2015, 81 
+Americas,Caribbean,Trinidad and Tobago, 600 ,2015, 44 
+Americas,Central America,El Salvador," 5,887 ",2015, 93 
+Americas,Central America,Guatemala," 2,364 ",2015, 15 
+Americas,Central America,Honduras," 1,328 ",2015, 15 
+Americas,Central America,Mexico," 46,211 ",2015, 37 
+Americas,Central America,Panama," 2,843 ",2015, 72 
+Americas,Northern America,Bermuda, 58 ,2015, 94 
+Americas,Northern America,Canada," 50,708 ",2015, 141 
+Americas,Northern America,United States of America," 764,100 ",2015, 239 
+Americas,South America,Argentina," 181,321 ",2015, 418 
+Americas,South America,Bolivia (Plurinational State of)," 8,647 ",2015, 81 
+Americas,South America,Chile," 12,304 ",2015, 69 
+Americas,South America,Colombia," 175,106 ",2015, 363 
+Americas,South America,Ecuador," 7,850 ",2015, 49 
+Americas,South America,Guyana," 9,269 ",2015," 1,206 "
+Americas,South America,Paraguay, 685 ,2015, 10 
+Americas,South America,Peru," 24,778 ",2015, 79 
+Americas,South America,Uruguay, 466 ,2015, 14 
+Asia,Central Asia,Kazakhstan, 900 ,2015, 5 
+Asia,Central Asia,Kyrgyzstan, 359 ,2015, 6 
+Asia,Eastern Asia,Japan," 25,183 ",2015, 20 
+Asia,Eastern Asia,Macao Special Administrative Region of China," 1,620 ",2015, 270 
+Asia,Eastern Asia,Mongolia," 8,064 ",2015, 271 
+Asia,Eastern Asia,Republic of Korea," 48,005 ",2015, 95 
+Asia,South-Eastern Asia,Indonesia," 14,559 ",2015, 6 
+Asia,South-Eastern Asia,Myanmar," 4,885 ",2015, 9 
+Asia,South-Eastern Asia,Singapore, 473 ,2015, 9 
+Asia,South-Eastern Asia,Thailand," 13,677 ",2015, 20 
+Asia,Southern Asia,Pakistan," 28,979 ",2015, 15 
+Asia,Southern Asia,Sri Lanka," 3,792 ",2015, 18 
+Asia,Western Asia,Armenia, 163 ,2015, 6 
+Asia,Western Asia,Cyprus, 141 ,2015, 12 
+Asia,Western Asia,Lebanon," 7,769 ",2015, 133 
+Asia,Western Asia,Saudi Arabia, 437 ,2015, 1 
+Asia,Western Asia,Turkey," 87,554 ",2015, 112 
+Asia,Western Asia,United Arab Emirates, 320 ,2015, 3 
+Europe,Eastern Europe,Bulgaria," 2,520 ",2015, 35 
+Europe,Eastern Europe,Czech Republic," 15,669 ",2015, 148 
+Europe,Eastern Europe,Hungary," 12,472 ",2015, 127 
+Europe,Eastern Europe,Poland," 6,957 ",2015, 18 
+Europe,Eastern Europe,Romania, 299 ,2015, 2 
+Europe,Eastern Europe,Russian Federation," 27,258 ",2015, 19 
+Europe,Eastern Europe,Slovakia," 1,900 ",2015, 35 
+Europe,Northern Europe,Denmark," 1,460 ",2015, 26 
+Europe,Northern Europe,Estonia, 98 ,2015, 7 
+Europe,Northern Europe,Finland," 1,563 ",2015, 29 
+Europe,Northern Europe,Iceland, 85 ,2015, 26 
+Europe,Northern Europe,Ireland," 3,514 ",2015, 75 
+Europe,Northern Europe,Latvia, 534 ,2015, 27 
+Europe,Northern Europe,Lithuania, 214 ,2015, 7 
+Europe,Northern Europe,Norway," 2,239 ",2015, 43 
+Europe,Northern Europe,Sweden," 4,632 ",2015, 47 
+Europe,Northern Europe,United Kingdom (England and Wales)," 429,260 ",2015, 742 
+Europe,Northern Europe,United Kingdom (Northern Ireland)," 1,206 ",2015, 65 
+Europe,Northern Europe,United Kingdom (Scotland)," 3,714 ",2015, 69 
+Europe,Southern Europe,Albania, 169 ,2015, 6 
+Europe,Southern Europe,Andorra, 133 ,2015, 170 
+Europe,Southern Europe,Bosnia and Herzegovina, 992 ,2015, 28 
+Europe,Southern Europe,Croatia, 804 ,2015, 19 
+Europe,Southern Europe,Greece," 1,624 ",2015, 14 
+Europe,Southern Europe,Holy See, -   ,2015, -   
+Europe,Southern Europe,Italy," 64,042 ",2015, 108 
+Europe,Southern Europe,Kosovo under UNSCR 1244, 890 ,2015, 49 
+Europe,Southern Europe,Malta, 183 ,2015, 43 
+Europe,Southern Europe,Montenegro, 140 ,2015, 22 
+Europe,Southern Europe,Portugal, 469 ,2015, 5 
+Europe,Southern Europe,Serbia," 1,422 ",2015, 16 
+Europe,Southern Europe,Slovenia," 1,540 ",2015, 74 
+Europe,Southern Europe,Spain," 29,056 ",2015, 63 
+Europe,Western Europe,Austria," 3,072 ",2015, 35 
+Europe,Western Europe,Belgium," 67,790 ",2015, 601 
+Europe,Western Europe,France," 242,185 ",2015, 376 
+Europe,Western Europe,Germany," 127,395 ",2015, 156 
+Europe,Western Europe,Liechtenstein, 123 ,2015, 329 
+Europe,Western Europe,Monaco, 197 ,2015, 514 
+Europe,Western Europe,Netherlands," 5,105 ",2015, 30 
+Europe,Western Europe,Switzerland, 616 ,2015, 7 
+Oceania,Australia and New Zealand,Australia," 67,757 ",2015, 285 
+Africa,Eastern Africa,Kenya," 15,705 ",2016, 32 
+Africa,Western Africa,Senegal, 6 ,2016, 0 
+Americas,Caribbean,Barbados," 1,559 ",2016, 547 
+Americas,Caribbean,Dominican Republic," 3,142 ",2016, 30 
+Americas,Caribbean,Grenada," 1,848 ",2016," 1,722 "
+Americas,Caribbean,Jamaica," 2,262 ",2016, 79 
+Americas,Caribbean,Puerto Rico," 3,594 ",2016, 98 
+Americas,Caribbean,St. Vincent and the Grenadines, 821 ,2016, 748 
+Americas,Central America,Guatemala," 1,849 ",2016, 11 
+Americas,Central America,Honduras," 1,347 ",2016, 15 
+Americas,Central America,Mexico," 63,654 ",2016, 50 
+Americas,Central America,Panama," 2,511 ",2016, 62 
+Americas,Northern America,Bermuda, 46 ,2016, 75 
+Americas,Northern America,Canada," 52,021 ",2016, 143 
+Americas,Northern America,United States of America," 803,000 ",2016, 249 
+Americas,South America,Argentina," 142,986 ",2016, 326 
+Americas,South America,Bolivia (Plurinational State of)," 8,108 ",2016, 74 
+Americas,South America,Chile," 12,007 ",2016, 67 
+Americas,South America,Colombia," 179,607 ",2016, 369 
+Americas,South America,Ecuador," 7,165 ",2016, 44 
+Americas,South America,Guyana," 1,154 ",2016, 149 
+Americas,South America,Paraguay, 664 ,2016, 10 
+Americas,South America,Peru," 22,720 ",2016, 72 
+Americas,South America,Uruguay, 569 ,2016, 17 
+Asia,Central Asia,Kyrgyzstan, 283 ,2016, 5 
+Asia,Eastern Asia,Japan," 24,365 ",2016, 19 
+Asia,Eastern Asia,Macao Special Administrative Region of China," 1,713 ",2016, 280 
+Asia,Eastern Asia,Mongolia," 1,892 ",2016, 63 
+Asia,Eastern Asia,Republic of Korea," 50,028 ",2016, 99 
+Asia,South-Eastern Asia,Indonesia," 14,468 ",2016, 6 
+Asia,South-Eastern Asia,Myanmar," 4,619 ",2016, 9 
+Asia,South-Eastern Asia,Singapore, 492 ,2016, 9 
+Asia,South-Eastern Asia,Thailand," 2,303 ",2016, 3 
+Asia,Southern Asia,Nepal, 66 ,2016, 0 
+Asia,Southern Asia,Pakistan," 29,694 ",2016, 15 
+Asia,Southern Asia,Sri Lanka," 3,563 ",2016, 17 
+Asia,Western Asia,Armenia, 186 ,2016, 6 
+Asia,Western Asia,Azerbaijan, 333 ,2016, 3 
+Asia,Western Asia,Cyprus, 145 ,2016, 12 
+Asia,Western Asia,Lebanon," 7,491 ",2016, 127 
+Asia,Western Asia,Turkey," 69,896 ",2016, 88 
+Asia,Western Asia,United Arab Emirates, 348 ,2016, 4 
+Europe,Eastern Europe,Bulgaria," 2,470 ",2016, 35 
+Europe,Eastern Europe,Czech Republic," 14,233 ",2016, 134 
+Europe,Eastern Europe,Poland," 7,621 ",2016, 20 
+Europe,Eastern Europe,Romania, 304 ,2016, 2 
+Europe,Eastern Europe,Russian Federation," 25,153 ",2016, 17 
+Europe,Eastern Europe,Slovakia," 1,632 ",2016, 30 
+Europe,Northern Europe,Denmark," 1,733 ",2016, 30 
+Europe,Northern Europe,Finland," 1,592 ",2016, 29 
+Europe,Northern Europe,Iceland, 74 ,2016, 22 
+Europe,Northern Europe,Ireland," 3,501 ",2016, 74 
+Europe,Northern Europe,Latvia, 657 ,2016, 33 
+Europe,Northern Europe,Lithuania, 216 ,2016, 7 
+Europe,Northern Europe,Norway," 2,199 ",2016, 42 
+Europe,Northern Europe,Sweden," 4,932 ",2016, 50 
+Europe,Northern Europe,United Kingdom (England and Wales)," 464,908 ",2016, 798 
+Europe,Northern Europe,United Kingdom (Northern Ireland)," 1,111 ",2016, 60 
+Europe,Northern Europe,United Kingdom (Scotland)," 3,950 ",2016, 73 
+Europe,Southern Europe,Albania, 118 ,2016, 4 
+Europe,Southern Europe,Bosnia and Herzegovina," 1,009 ",2016, 29 
+Europe,Southern Europe,Croatia, 790 ,2016, 19 
+Europe,Southern Europe,Greece," 1,515 ",2016, 14 
+Europe,Southern Europe,Kosovo under UNSCR 1244," 1,048 ",2016, 58 
+Europe,Southern Europe,Montenegro, 128 ,2016, 20 
+Europe,Southern Europe,Portugal, 521 ,2016, 5 
+Europe,Southern Europe,Serbia," 1,339 ",2016, 15 
+Europe,Southern Europe,Slovenia," 1,491 ",2016, 72 
+Europe,Southern Europe,Spain," 17,331 ",2016, 37 
+Europe,Western Europe,Austria," 3,292 ",2016, 38 
+Europe,Western Europe,France," 242,910 ",2016, 375 
+Europe,Western Europe,Germany," 140,033 ",2016, 171 
+Europe,Western Europe,Liechtenstein, 71 ,2016, 189 
+Europe,Western Europe,Netherlands," 5,019 ",2016, 30 
+Europe,Western Europe,Switzerland, 573 ,2016, 7 
+Oceania,Australia and New Zealand,Australia," 70,731 ",2016, 293 

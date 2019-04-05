@@ -1,0 +1,1311 @@
+Region,Sub Region,Country,Count,Rate,Year
+Africa,Eastern Africa,Mauritius,988,81.72083567,2003
+Africa,Eastern Africa,Uganda,837,3.143683225,2003
+Africa,Eastern Africa,Zimbabwe,1051,8.318890046,2003
+Africa,Northern Africa,Algeria,1250,3.857606308,2003
+Africa,Northern Africa,Egypt,1994,2.695252309,2003
+Africa,Northern Africa,Morocco,6978,23.3816336,2003
+Africa,Southern Africa,Eswatini,341,31.35943616,2003
+Americas,Central America,Costa Rica,5304,128.5515579,2003
+Americas,Northern America,Bermuda,1112,1714.197626,2003
+Americas,Northern America,Canada,174208,550.8064644,2003
+Americas,Northern America,United States of America,1261226,434.8640942,2003
+Americas,South America,Ecuador,5601,42.14573485,2003
+Americas,South America,Peru,8722,32.37836822,2003
+Americas,South America,Suriname,71,14.53928884,2003
+Americas,South America,Uruguay,4456,133.9893681,2003
+Asia,Central Asia,Kyrgyzstan,219,4.369278664,2003
+Asia,Central Asia,Turkmenistan,10,0.21478858,2003
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China,2301,33.92518855,2003
+Asia,South-Eastern Asia,Brunei Darussalam,148,41.88019435,2003
+Asia,South-Eastern Asia,Singapore,1190,28.00464548,2003
+Asia,Southern Asia,Iran (Islamic Republic of),81075,117.8197988,2003
+Asia,Southern Asia,Maldives,261,86.36407255,2003
+Asia,Southern Asia,Sri Lanka,752,3.913546632,2003
+Asia,Western Asia,Armenia,124,4.108945373,2003
+Asia,Western Asia,Azerbaijan,80,0.956782265,2003
+Asia,Western Asia,Georgia,743,16.2259597,2003
+Asia,Western Asia,Qatar,65,9.439634265,2003
+Asia,Western Asia,State of Palestine,181,5.260406086,2003
+Asia,Western Asia,Syrian Arab Republic,529,3.037564858,2003
+Asia,Western Asia,Turkey,25443,38.49994832,2003
+Asia,Western Asia,United Arab Emirates,677,18.09225822,2003
+Europe,Eastern Europe,Belarus,1787,18.34692087,2003
+Europe,Eastern Europe,Bulgaria,8897,114.0073766,2003
+Europe,Eastern Europe,Czech Republic,25331,247.390514,2003
+Europe,Eastern Europe,Hungary,12527,123.5166076,2003
+Europe,Eastern Europe,Poland,54291,141.2400056,2003
+Europe,Eastern Europe,Republic of Moldova,184,4.410729002,2003
+Europe,Eastern Europe,Romania,1127,5.186636298,2003
+Europe,Eastern Europe,Slovakia,5295,98.05762566,2003
+Europe,Eastern Europe,Ukraine,7013,14.73921313,2003
+Europe,Northern Europe,Denmark,23713,440.1919596,2003
+Europe,Northern Europe,Estonia,460,33.50549818,2003
+Europe,Northern Europe,Finland,21922,419.3910087,2003
+Europe,Northern Europe,Iceland,385,133.7028394,2003
+Europe,Northern Europe,Ireland,12339,304.700748,2003
+Europe,Northern Europe,Latvia,3699,160.423285,2003
+Europe,Northern Europe,Lithuania,7022,205.6612792,2003
+Europe,Northern Europe,Norway,20130,440.4711838,2003
+Europe,Northern Europe,Sweden,67199,750.7075412,2003
+Europe,Northern Europe,United Kingdom (England and Wales),291858,552.1001192,2003
+Europe,Northern Europe,United Kingdom (Northern Ireland),6150,360.7198913,2003
+Europe,Northern Europe,United Kingdom (Scotland),17843,352.0370918,2003
+Europe,Southern Europe,Croatia,2338,53.27019289,2003
+Europe,Southern Europe,Italy,221543,381.0047965,2003
+Europe,Southern Europe,Malta,887,219.9840778,2003
+Europe,Southern Europe,Montenegro,78,12.70157646,2003
+Europe,Southern Europe,Portugal,29934,285.4360395,2003
+Europe,Southern Europe,Slovenia,682,34.28919061,2003
+Europe,Western Europe,Belgium,32878,315.5571458,2003
+Europe,Western Europe,Germany,109846,134.4726567,2003
+Europe,Western Europe,Liechtenstein,22,64.10069637,2003
+Europe,Western Europe,Switzerland,70713,969.7481847,2003
+Oceania,Australia and New Zealand,Australia,98298,499.0513263,2003
+Africa,Eastern Africa,Kenya,798,2.275129208,2004
+Africa,Eastern Africa,Mauritius,1105,90.89585474,2004
+Africa,Eastern Africa,Uganda,581,2.10748263,2004
+Africa,Eastern Africa,Zimbabwe,1096,8.577570389,2004
+Africa,Northern Africa,Algeria,1096,3.338298545,2004
+Africa,Northern Africa,Egypt,2784,3.693194304,2004
+Africa,Northern Africa,Morocco,7640,25.31537775,2004
+Africa,Southern Africa,Eswatini,307,28.03517273,2004
+Americas,Caribbean,Barbados,107,39.18107883,2004
+Americas,Caribbean,St. Vincent and the Grenadines,36,33.16169088,2004
+Americas,Caribbean,Trinidad and Tobago,1428,110.651784,2004
+Americas,Central America,Costa Rica,4763,113.7558341,2004
+Americas,Central America,Guatemala,4654,36.36811187,2004
+Americas,Central America,Mexico,144457,135.0121154,2004
+Americas,Central America,Panama,771,23.58129169,2004
+Americas,Northern America,Bermuda,858,1318.681319,2004
+Americas,Northern America,Canada,169977,532.0190976,2004
+Americas,Northern America,United States of America,1237851,423.1400357,2004
+Americas,South America,Ecuador,6167,45.64886114,2004
+Americas,South America,Peru,10633,38.98699947,2004
+Americas,South America,Suriname,40,8.103235217,2004
+Americas,South America,Uruguay,4677,140.6999076,2004
+Asia,Central Asia,Kyrgyzstan,238,4.724163441,2004
+Asia,Central Asia,Tajikistan,41,0.610769717,2004
+Asia,Central Asia,Turkmenistan,8,0.170089795,2004
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China,1740,25.57846658,2004
+Asia,Eastern Asia,Japan,185454,144.6445258,2004
+Asia,Eastern Asia,Mongolia,61,2.443095891,2004
+Asia,South-Eastern Asia,Brunei Darussalam,142,39.49677767,2004
+Asia,South-Eastern Asia,Singapore,1117,25.56040677,2004
+Asia,Southern Asia,India,80682,7.1645002,2004
+Asia,Southern Asia,Iran (Islamic Republic of),94413,135.6175422,2004
+Asia,Southern Asia,Maldives,316,101.7965808,2004
+Asia,Southern Asia,Sri Lanka,822,4.243119823,2004
+Asia,Western Asia,Armenia,127,4.232469909,2004
+Asia,Western Asia,Azerbaijan,95,1.124409123,2004
+Asia,Western Asia,Georgia,1784,39.35297879,2004
+Asia,Western Asia,Israel,30850,476.9025358,2004
+Asia,Western Asia,Kuwait,6,0.271746638,2004
+Asia,Western Asia,Qatar,63,8.301981274,2004
+Asia,Western Asia,State of Palestine,385,10.98731436,2004
+Asia,Western Asia,Syrian Arab Republic,572,3.212285216,2004
+Asia,Western Asia,Turkey,25667,38.30446445,2004
+Asia,Western Asia,United Arab Emirates,519,12.69590901,2004
+Europe,Eastern Europe,Belarus,1771,18.30131172,2004
+Europe,Eastern Europe,Bulgaria,7708,99.54458482,2004
+Europe,Eastern Europe,Czech Republic,24230,236.6318161,2004
+Europe,Eastern Europe,Hungary,9053,89.50002477,2004
+Europe,Eastern Europe,Poland,51150,133.2167728,2004
+Europe,Eastern Europe,Republic of Moldova,191,4.584362715,2004
+Europe,Eastern Europe,Romania,1120,5.187307178,2004
+Europe,Eastern Europe,Russian Federation,71205,49.43260389,2004
+Europe,Eastern Europe,Slovakia,6000,111.1230671,2004
+Europe,Eastern Europe,Ukraine,5857,12.40470226,2004
+Europe,Northern Europe,Denmark,20789,384.7847425,2004
+Europe,Northern Europe,Estonia,628,46.05574358,2004
+Europe,Northern Europe,Finland,19326,368.663067,2004
+Europe,Northern Europe,Iceland,438,150.4616907,2004
+Europe,Northern Europe,Ireland,14396,348.6770448,2004
+Europe,Northern Europe,Latvia,3266,143.3175871,2004
+Europe,Northern Europe,Lithuania,6330,187.2161812,2004
+Europe,Northern Europe,Norway,17867,388.5639076,2004
+Europe,Northern Europe,Sweden,60980,678.2610224,2004
+Europe,Northern Europe,United Kingdom (England and Wales),242732,456.6750066,2004
+Europe,Northern Europe,United Kingdom (Northern Ireland),4532,264.4042561,2004
+Europe,Northern Europe,United Kingdom (Scotland),15633,307.4759554,2004
+Europe,Southern Europe,Croatia,2462,56.15978394,2004
+Europe,Southern Europe,Greece,17478,155.0777447,2004
+Europe,Southern Europe,Italy,187300,320.1999278,2004
+Europe,Southern Europe,Malta,798,197.0336315,2004
+Europe,Southern Europe,Montenegro,47,7.64047501,2004
+Europe,Southern Europe,Portugal,29237,277.6999978,2004
+Europe,Southern Europe,Slovenia,704,35.3514811,2004
+Europe,Western Europe,Austria,8156,99.25999217,2004
+Europe,Western Europe,Belgium,29925,285.5407053,2004
+Europe,Western Europe,France,285680,469.2000656,2004
+Europe,Western Europe,Germany,107920,132.0677105,2004
+Europe,Western Europe,Liechtenstein,19,54.91964389,2004
+Europe,Western Europe,Switzerland,62172,846.1944998,2004
+Oceania,Australia and New Zealand,Australia,87939,440.8317066,2004
+Africa,Eastern Africa,Kenya,654,1.814233175,2005
+Africa,Eastern Africa,Mauritius,993,81.26002964,2005
+Africa,Eastern Africa,Uganda,1641,5.749031143,2005
+Africa,Eastern Africa,Zimbabwe,650,5.023171504,2005
+Africa,Northern Africa,Algeria,2624,7.882617018,2005
+Africa,Northern Africa,Egypt,3047,3.968577049,2005
+Africa,Northern Africa,Morocco,7506,24.59284684,2005
+Americas,Caribbean,Bahamas,846,256.9483886,2005
+Americas,Caribbean,Barbados,121,44.15913346,2005
+Americas,Caribbean,Dominican Republic,2585,27.9835619,2005
+Americas,Caribbean,Grenada,0,0,2005
+Americas,Caribbean,St. Vincent and the Grenadines,24,22.07018318,2005
+Americas,Caribbean,Trinidad and Tobago,1329,102.4724466,2005
+Americas,Central America,Belize,67,23.65176135,2005
+Americas,Central America,Costa Rica,5114,120.3905702,2005
+Americas,Central America,El Salvador,1857,30.80132713,2005
+Americas,Central America,Guatemala,4034,30.80323286,2005
+Americas,Central America,Mexico,143525,132.3149737,2005
+Americas,Central America,Nicaragua,285,5.298059535,2005
+Americas,Central America,Panama,757,22.72955879,2005
+Americas,Northern America,Canada,160014,495.5838055,2005
+Americas,Northern America,United States of America,1235859,418.751428,2005
+Americas,South America,Argentina,52560,134.2683479,2005
+Americas,South America,Chile,12108,74.98576831,2005
+Americas,South America,Ecuador,6433,46.83575444,2005
+Americas,South America,Paraguay,1524,26.29629157,2005
+Americas,South America,Peru,12560,45.4900887,2005
+Asia,Central Asia,Kyrgyzstan,295,5.81237267,2005
+Asia,Central Asia,Tajikistan,53,0.773251227,2005
+Asia,Central Asia,Turkmenistan,4,0.084128329,2005
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China,1568,22.96506864,2005
+Asia,Eastern Asia,Japan,150883,117.5689393,2005
+Asia,Eastern Asia,Mongolia,73,2.889434407,2005
+Asia,South-Eastern Asia,Brunei Darussalam,163,44.6382114,2005
+Asia,South-Eastern Asia,Malaysia,66927,260.8284615,2005
+Asia,South-Eastern Asia,Singapore,1058,23.55800725,2005
+Asia,South-Eastern Asia,Thailand,20343,31.09339528,2005
+Asia,Southern Asia,Bangladesh,1061,0.73972799,2005
+Asia,Southern Asia,India,85709,7.49126834,2005
+Asia,Southern Asia,Nepal,26,0.101402921,2005
+Asia,Western Asia,Armenia,96,3.220116065,2005
+Asia,Western Asia,Azerbaijan,124,1.452227682,2005
+Asia,Western Asia,Bahrain,3030,340.7679988,2005
+Asia,Western Asia,Cyprus,1610,156.6669067,2005
+Asia,Western Asia,Georgia,283,6.307746247,2005
+Asia,Western Asia,Israel,34795,526.9598378,2005
+Asia,Western Asia,Jordan,3006,52.60660845,2005
+Asia,Western Asia,Kuwait,7,0.307472954,2005
+Asia,Western Asia,Qatar,187,21.62192162,2005
+Asia,Western Asia,State of Palestine,286,7.997382675,2005
+Asia,Western Asia,Syrian Arab Republic,645,3.525628394,2005
+Asia,Western Asia,Turkey,33344,49.10504784,2005
+Asia,Western Asia,United Arab Emirates,520,11.35479769,2005
+Asia,Western Asia,Yemen,714,3.46889439,2005
+Europe,Eastern Europe,Belarus,1420,14.75854756,2005
+Europe,Eastern Europe,Bulgaria,5904,76.8373517,2005
+Europe,Eastern Europe,Czech Republic,23040,224.6013326,2005
+Europe,Eastern Europe,Hungary,8961,88.84182912,2005
+Europe,Eastern Europe,Poland,45292,118.0627019,2005
+Europe,Eastern Europe,Republic of Moldova,105,2.525435343,2005
+Europe,Eastern Europe,Romania,1082,5.0487569,2005
+Europe,Eastern Europe,Russian Federation,67546,47.03164853,2005
+Europe,Eastern Europe,Slovakia,5591,103.5569238,2005
+Europe,Eastern Europe,Ukraine,6197,13.21542792,2005
+Europe,Northern Europe,Denmark,16341,301.3998187,2005
+Europe,Northern Europe,Finland,16791,319.2856642,2005
+Europe,Northern Europe,Iceland,325,110.1773347,2005
+Europe,Northern Europe,Ireland,14199,337.0300859,2005
+Europe,Northern Europe,Latvia,2223,98.71300094,2005
+Europe,Northern Europe,Lithuania,4541,135.7852219,2005
+Europe,Northern Europe,Norway,15350,331.3642883,2005
+Europe,Northern Europe,Sweden,56719,627.5181518,2005
+Europe,Northern Europe,United Kingdom (England and Wales),214182,399.7771885,2005
+Europe,Northern Europe,United Kingdom (Northern Ireland),4124,238.694289,2005
+Europe,Northern Europe,United Kingdom (Scotland),14041,274.7641971,2005
+Europe,Southern Europe,Albania,708,22.993142,2005
+Europe,Southern Europe,Bosnia and Herzegovina,2321,61.37727322,2005
+Europe,Southern Europe,Croatia,2274,51.94084956,2005
+Europe,Southern Europe,Greece,17552,155.3108855,2005
+Europe,Southern Europe,Italy,265975,452.2731865,2005
+Europe,Southern Europe,Malta,672,165.1970196,2005
+Europe,Southern Europe,Montenegro,121,19.63049248,2005
+Europe,Southern Europe,Portugal,25733,243.5517191,2005
+Europe,Southern Europe,Serbia,3719,40.35817309,2005
+Europe,Southern Europe,Slovenia,873,43.73131839,2005
+Europe,Southern Europe,Spain,122169,277.3880544,2005
+Europe,Southern Europe,The former Yugoslav Rep. of Macedonia,567,27.52063805,2005
+Europe,Western Europe,Austria,11089,134.3526803,2005
+Europe,Western Europe,Belgium,26767,253.7905501,2005
+Europe,Western Europe,France,260538,425.4800037,2005
+Europe,Western Europe,Germany,96451,118.0966606,2005
+Europe,Western Europe,Liechtenstein,13,37.30058533,2005
+Europe,Western Europe,Monaco,149,440.9197171,2005
+Europe,Western Europe,Netherlands,27425,167.5611612,2005
+Europe,Western Europe,Switzerland,59041,796.741512,2005
+Oceania,Australia and New Zealand,Australia,80365,397.0817984,2005
+Oceania,Australia and New Zealand,New Zealand,23952,579.2005765,2005
+Africa,Eastern Africa,Kenya,695,1.875739669,2006
+Africa,Eastern Africa,Mauritius,1005,81.83386016,2006
+Africa,Eastern Africa,Uganda,1206,4.081126846,2006
+Africa,Eastern Africa,Zimbabwe,533,4.061179188,2006
+Africa,Middle Africa,Cameroon,428,2.391119961,2006
+Africa,Middle Africa,Sao Tome and Principe,0,0,2006
+Africa,Northern Africa,Algeria,2035,6.024646578,2006
+Africa,Northern Africa,Egypt,3145,4.02384635,2006
+Africa,Northern Africa,Morocco,8200,26.56356892,2006
+Americas,Caribbean,Bahamas,1059,315.3381175,2006
+Americas,Caribbean,Barbados,115,41.81225208,2006
+Americas,Caribbean,Dominican Republic,2957,31.55365861,2006
+Americas,Caribbean,Grenada,0,0,2006
+Americas,Caribbean,St. Vincent and the Grenadines,30,27.5464387,2006
+Americas,Caribbean,Trinidad and Tobago,1496,114.7992854,2006
+Americas,Central America,Belize,62,21.32438168,2006
+Americas,Central America,Costa Rica,5600,129.966761,2006
+Americas,Central America,El Salvador,1257,20.75463661,2006
+Americas,Central America,Guatemala,3235,24.14718271,2006
+Americas,Central America,Mexico,146808,133.349831,2006
+Americas,Central America,Nicaragua,200,3.669582701,2006
+Americas,Central America,Panama,205,6.043801345,2006
+Americas,Northern America,Canada,158638,485.9416539,2006
+Americas,Northern America,United States of America,1198245,402.3287236,2006
+Americas,South America,Argentina,52727,133.2873597,2006
+Americas,South America,Bolivia (Plurinational State of),3285,35.38599387,2006
+Americas,South America,Brazil,210212,111.2159767,2006
+Americas,South America,Chile,13638,83.56724154,2006
+Americas,South America,Colombia,19813,45.19829741,2006
+Americas,South America,Ecuador,7096,50.80372408,2006
+Americas,South America,Paraguay,2677,45.50557252,2006
+Americas,South America,Peru,10428,37.30955597,2006
+Asia,Central Asia,Kazakhstan,2141,13.64488539,2006
+Asia,Central Asia,Kyrgyzstan,218,4.252223152,2006
+Asia,Central Asia,Tajikistan,38,0.54281395,2006
+Asia,Central Asia,Turkmenistan,2,0.041579134,2006
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China,1752,25.53795885,2006
+Asia,Eastern Asia,Japan,129352,100.7155529,2006
+Asia,Eastern Asia,Mongolia,93,3.635635798,2006
+Asia,Eastern Asia,Republic of Korea,14090,28.81635444,2006
+Asia,South-Eastern Asia,Brunei Darussalam,169,45.64483457,2006
+Asia,South-Eastern Asia,Malaysia,82287,314.750482,2006
+Asia,South-Eastern Asia,Philippines,2096,2.386987665,2006
+Asia,South-Eastern Asia,Singapore,900,19.51472939,2006
+Asia,South-Eastern Asia,Thailand,23319,35.42620002,2006
+Asia,Southern Asia,Bangladesh,1061,0.729871754,2006
+Asia,Southern Asia,India,90951,7.827258519,2006
+Asia,Southern Asia,Nepal,17,0.065534291,2006
+Asia,Western Asia,Armenia,131,4.427919554,2006
+Asia,Western Asia,Azerbaijan,117,1.355705172,2006
+Asia,Western Asia,Bahrain,2151,224.4332825,2006
+Asia,Western Asia,Cyprus,1780,170.2520017,2006
+Asia,Western Asia,Georgia,181,4.077590464,2006
+Asia,Western Asia,Israel,34448,509.9470616,2006
+Asia,Western Asia,Jordan,2438,41.08366508,2006
+Asia,Western Asia,Kuwait,4,0.168261081,2006
+Asia,Western Asia,Qatar,131,12.96539329,2006
+Asia,Western Asia,Syrian Arab Republic,882,4.66297157,2006
+Asia,Western Asia,Turkey,33091,48.12298053,2006
+Asia,Western Asia,United Arab Emirates,606,11.56040253,2006
+Asia,Western Asia,Yemen,717,3.388383299,2006
+Europe,Eastern Europe,Belarus,1560,16.29235503,2006
+Europe,Eastern Europe,Bulgaria,5102,66.9118352,2006
+Europe,Eastern Europe,Czech Republic,20996,203.8785476,2006
+Europe,Eastern Europe,Hungary,8406,83.59274165,2006
+Europe,Eastern Europe,Poland,30529,79.62486981,2006
+Europe,Eastern Europe,Republic of Moldova,83,2.002542988,2006
+Europe,Eastern Europe,Romania,1266,5.959351574,2006
+Europe,Eastern Europe,Russian Federation,64535,45.02768583,2006
+Europe,Eastern Europe,Slovakia,5525,102.3424662,2006
+Europe,Eastern Europe,Ukraine,5541,11.88637756,2006
+Europe,Northern Europe,Denmark,15312,281.248123,2006
+Europe,Northern Europe,Finland,15276,289.4513952,2006
+Europe,Northern Europe,Iceland,462,154.1397534,2006
+Europe,Northern Europe,Ireland,13661,317.4488831,2006
+Europe,Northern Europe,Latvia,2336,104.9782426,2006
+Europe,Northern Europe,Lithuania,3460,104.7319785,2006
+Europe,Northern Europe,Norway,14619,312.8350314,2006
+Europe,Northern Europe,Sweden,51639,567.6946052,2006
+Europe,Northern Europe,United Kingdom (England and Wales),193384,358.4447431,2006
+Europe,Northern Europe,United Kingdom (Northern Ireland),3520,201.937568,2006
+Europe,Northern Europe,United Kingdom (Scotland),15000,292.221075,2006
+Europe,Southern Europe,Albania,531,17.38514915,2006
+Europe,Southern Europe,Bosnia and Herzegovina,2439,64.53289193,2006
+Europe,Southern Europe,Croatia,2033,46.51429897,2006
+Europe,Southern Europe,Greece,20216,178.2909434,2006
+Europe,Southern Europe,Italy,280167,474.2173684,2006
+Europe,Southern Europe,Malta,584,142.9400117,2006
+Europe,Southern Europe,Montenegro,98,15.86191716,2006
+Europe,Southern Europe,Portugal,24511,231.236918,2006
+Europe,Southern Europe,Serbia,3838,41.83886499,2006
+Europe,Southern Europe,Slovenia,852,42.51940447,2006
+Europe,Southern Europe,Spain,118476,264.8956752,2006
+Europe,Southern Europe,The former Yugoslav Rep. of Macedonia,365,17.6914371,2006
+Europe,Western Europe,Austria,8959,108.1386429,2006
+Europe,Western Europe,Belgium,26746,251.8558431,2006
+Europe,Western Europe,France,243153,394.7745002,2006
+Europe,Western Europe,Germany,90224,110.6495087,2006
+Europe,Western Europe,Liechtenstein,8,22.79526998,2006
+Europe,Western Europe,Luxembourg,534,114.7020539,2006
+Europe,Western Europe,Monaco,104,302.2552895,2006
+Europe,Western Europe,Netherlands,23825,144.9189676,2006
+Europe,Western Europe,Switzerland,57509,768.6923061,2006
+Oceania,Australia and New Zealand,Australia,75377,366.3771922,2006
+Oceania,Australia and New Zealand,New Zealand,24960,596.2851151,2006
+Africa,Eastern Africa,Kenya,557,1.462483146,2007
+Africa,Eastern Africa,Mauritius,971,78.69287169,2007
+Africa,Eastern Africa,Uganda,954,3.118616582,2007
+Africa,Eastern Africa,Zimbabwe,391,2.933253333,2007
+Africa,Middle Africa,Cameroon,316,1.717821787,2007
+Africa,Middle Africa,Sao Tome and Principe,0,0,2007
+Africa,Northern Africa,Algeria,1926,5.615147908,2007
+Africa,Northern Africa,Egypt,3533,4.441943702,2007
+Africa,Northern Africa,Morocco,8668,27.75902464,2007
+Africa,Southern Africa,Lesotho,597,30.11672881,2007
+Africa,Western Africa,Cote d'Ivoire,2898,15.18395137,2007
+Africa,Western Africa,Guinea,37,0.366455387,2007
+Africa,Western Africa,Nigeria,2137,1.459529733,2007
+Americas,Caribbean,Bahamas,1171,342.0695941,2007
+Americas,Caribbean,Barbados,97,35.12583741,2007
+Americas,Caribbean,Grenada,0,0,2007
+Americas,Caribbean,St. Vincent and the Grenadines,21,19.25775124,2007
+Americas,Caribbean,Trinidad and Tobago,1795,137.1003468,2007
+Americas,Central America,Costa Rica,5304,121.3877476,2007
+Americas,Central America,El Salvador,1421,23.35836015,2007
+Americas,Central America,Guatemala,3169,23.13090398,2007
+Americas,Central America,Honduras,1505,19.52523958,2007
+Americas,Central America,Mexico,163131,145.8658172,2007
+Americas,Central America,Panama,198,5.73280441,2007
+Americas,Northern America,Canada,145714,441.291036,2007
+Americas,Northern America,United States of America,1100472,366.0976927,2007
+Americas,South America,Argentina,53200,133.099079,2007
+Americas,South America,Bolivia (Plurinational State of),2869,30.38730093,2007
+Americas,South America,Brazil,188713,98.78884064,2007
+Americas,South America,Chile,19284,116.9316396,2007
+Americas,South America,Colombia,18311,41.26462335,2007
+Americas,South America,Paraguay,3368,56.4517305,2007
+Americas,South America,Peru,11226,39.67804585,2007
+Asia,Central Asia,Kazakhstan,1702,10.74403042,2007
+Asia,Central Asia,Kyrgyzstan,310,5.97334731,2007
+Asia,Central Asia,Tajikistan,43,0.601198062,2007
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China,1382,20.0336397,2007
+Asia,Eastern Asia,Japan,114818,89.34887805,2007
+Asia,Eastern Asia,Mongolia,151,5.826359066,2007
+Asia,Eastern Asia,Republic of Korea,11468,23.37430134,2007
+Asia,South-Eastern Asia,Philippines,1714,1.919512833,2007
+Asia,South-Eastern Asia,Singapore,1103,23.30678234,2007
+Asia,Southern Asia,India,100255,8.49848219,2007
+Asia,Southern Asia,Maldives,304,90.4573452,2007
+Asia,Western Asia,Armenia,137,4.670896157,2007
+Asia,Western Asia,Azerbaijan,137,1.570325839,2007
+Asia,Western Asia,Bahrain,1185,114.3942751,2007
+Asia,Western Asia,Cyprus,2025,190.3710779,2007
+Asia,Western Asia,Georgia,43,0.979379506,2007
+Asia,Western Asia,Israel,31041,448.3953842,2007
+Asia,Western Asia,Jordan,2819,45.51773068,2007
+Asia,Western Asia,Kuwait,10,0.399455143,2007
+Asia,Western Asia,Oman,179,6.722343191,2007
+Asia,Western Asia,Syrian Arab Republic,714,3.636770006,2007
+Asia,Western Asia,Turkey,24185,34.74992076,2007
+Asia,Western Asia,Yemen,1016,4.670919686,2007
+Europe,Eastern Europe,Belarus,1560,16.35757834,2007
+Europe,Eastern Europe,Bulgaria,4569,60.38100693,2007
+Europe,Eastern Europe,Czech Republic,20392,196.8988622,2007
+Europe,Eastern Europe,Hungary,8501,84.80742051,2007
+Europe,Eastern Europe,Poland,21284,55.52890802,2007
+Europe,Eastern Europe,Republic of Moldova,105,2.543204811,2007
+Europe,Eastern Europe,Romania,1817,8.637528106,2007
+Europe,Eastern Europe,Russian Federation,58427,40.81518829,2007
+Europe,Eastern Europe,Slovakia,4719,87.41598785,2007
+Europe,Eastern Europe,Ukraine,5436,11.71896348,2007
+Europe,Northern Europe,Denmark,16755,306.3095377,2007
+Europe,Northern Europe,Estonia,1007,74.92158158,2007
+Europe,Northern Europe,Finland,14827,279.8595851,2007
+Europe,Northern Europe,Iceland,421,137.9423329,2007
+Europe,Northern Europe,Ireland,13531,307.6574673,2007
+Europe,Northern Europe,Latvia,1941,88.28674589,2007
+Europe,Northern Europe,Lithuania,2848,87.35952463,2007
+Europe,Northern Europe,Norway,12571,266.3546095,2007
+Europe,Northern Europe,Sweden,49249,537.4625556,2007
+Europe,Northern Europe,United Kingdom (England and Wales),170038,312.6423124,2007
+Europe,Northern Europe,United Kingdom (Northern Ireland),3285,186.4694159,2007
+Europe,Northern Europe,United Kingdom (Scotland),12105,234.139265,2007
+Europe,Southern Europe,Albania,437,14.45150264,2007
+Europe,Southern Europe,Bosnia and Herzegovina,2088,55.32591415,2007
+Europe,Southern Europe,Croatia,2069,47.42947817,2007
+Europe,Southern Europe,Greece,22516,197.8402933,2007
+Europe,Southern Europe,Italy,277549,467.9355434,2007
+Europe,Southern Europe,Malta,388,94.55942134,2007
+Europe,Southern Europe,Montenegro,56,9.039781496,2007
+Europe,Southern Europe,Portugal,23986,225.6418554,2007
+Europe,Southern Europe,Serbia,4469,48.92058358,2007
+Europe,Southern Europe,Slovenia,839,41.66792895,2007
+Europe,Southern Europe,Spain,106945,235.5935466,2007
+Europe,Southern Europe,The former Yugoslav Rep. of Macedonia,413,19.99556515,2007
+Europe,Western Europe,Austria,7802,93.86674315,2007
+Europe,Western Europe,Belgium,24884,232.6078127,2007
+Europe,Western Europe,France,224658,362.5799798,2007
+Europe,Western Europe,Germany,92628,113.8713115,2007
+Europe,Western Europe,Liechtenstein,7,19.81767737,2007
+Europe,Western Europe,Luxembourg,459,96.68816697,2007
+Europe,Western Europe,Netherlands,21425,129.7929807,2007
+Oceania,Australia and New Zealand,Australia,70614,337.1133465,2007
+Oceania,Australia and New Zealand,New Zealand,22722,536.7632763,2007
+Africa,Eastern Africa,Kenya,607,1.550509732,2008
+Africa,Eastern Africa,Mauritius,974,78.5931979,2008
+Africa,Eastern Africa,Uganda,1172,3.701376483,2008
+Africa,Eastern Africa,Zimbabwe,444,3.274706016,2008
+Africa,Middle Africa,Sao Tome and Principe,0,0,2008
+Africa,Northern Africa,Algeria,2190,6.282143094,2008
+Africa,Northern Africa,Egypt,4113,5.080670561,2008
+Africa,Northern Africa,Morocco,8306,26.28742639,2008
+Africa,Southern Africa,Lesotho,431,21.55075428,2008
+Africa,Western Africa,Cote d'Ivoire,1593,8.170074591,2008
+Africa,Western Africa,Guinea,49,0.474661687,2008
+Africa,Western Africa,Nigeria,3433,2.283378514,2008
+Americas,Caribbean,Bahamas,1359,389.7601211,2008
+Americas,Caribbean,Barbados,77,27.76585809,2008
+Americas,Caribbean,Grenada,0,0,2008
+Americas,Caribbean,Puerto Rico,7003,187.4571041,2008
+Americas,Caribbean,St. Vincent and the Grenadines,36,32.97760271,2008
+Americas,Caribbean,Trinidad and Tobago,1750,133.0422116,2008
+Americas,Central America,Costa Rica,6492,146.5625528,2008
+Americas,Central America,El Salvador,1179,19.29528513,2008
+Americas,Central America,Guatemala,3261,23.28227036,2008
+Americas,Central America,Honduras,1667,21.17455121,2008
+Americas,Central America,Mexico,193856,170.5550894,2008
+Americas,Central America,Panama,331,9.413389423,2008
+Americas,Northern America,Canada,125568,375.9009103,2008
+Americas,Northern America,United States of America,959059,316.1308445,2008
+Americas,South America,Argentina,62044,153.6412321,2008
+Americas,South America,Bolivia (Plurinational State of),3153,32.84424608,2008
+Americas,South America,Brazil,183048,94.85382995,2008
+Americas,South America,Chile,21422,128.5684466,2008
+Americas,South America,Colombia,19640,43.74014399,2008
+Americas,South America,Paraguay,3598,59.49942758,2008
+Americas,South America,Peru,12840,44.829303,2008
+Asia,Central Asia,Kazakhstan,1914,11.96162082,2008
+Asia,Central Asia,Kyrgyzstan,237,4.503739244,2008
+Asia,Central Asia,Tajikistan,48,0.656659181,2008
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China,1347,19.4083186,2008
+Asia,Eastern Asia,Japan,108546,84.43840611,2008
+Asia,Eastern Asia,Macao Special Administrative Region of China,866,168.3684976,2008
+Asia,Eastern Asia,Mongolia,73,2.777639319,2008
+Asia,Eastern Asia,Republic of Korea,9969,20.25437948,2008
+Asia,South-Eastern Asia,Indonesia,34804,14.73751131,2008
+Asia,South-Eastern Asia,Philippines,1673,1.843488306,2008
+Asia,South-Eastern Asia,Singapore,1178,24.28310722,2008
+Asia,Southern Asia,India,120032,10.02650547,2008
+Asia,Southern Asia,Maldives,813,235.615295,2008
+Asia,Southern Asia,Sri Lanka,1301,6.522665989,2008
+Asia,Western Asia,Armenia,66,2.26942941,2008
+Asia,Western Asia,Azerbaijan,211,2.391772846,2008
+Asia,Western Asia,Bahrain,1094,98.15268395,2008
+Asia,Western Asia,Cyprus,1786,165.1313886,2008
+Asia,Western Asia,Israel,25687,361.920757,2008
+Asia,Western Asia,Jordan,3037,46.79635281,2008
+Asia,Western Asia,Kuwait,6,0.226215342,2008
+Asia,Western Asia,Lebanon,7528,183.1163691,2008
+Asia,Western Asia,Oman,177,6.415335334,2008
+Asia,Western Asia,Syrian Arab Republic,912,4.486987073,2008
+Asia,Western Asia,Turkey,29500,41.87959483,2008
+Asia,Western Asia,Yemen,1220,5.457052527,2008
+Europe,Eastern Europe,Belarus,1493,15.7036712,2008
+Europe,Eastern Europe,Bulgaria,4620,61.51526477,2008
+Europe,Eastern Europe,Czech Republic,18793,180.2894416,2008
+Europe,Eastern Europe,Hungary,7982,79.89029547,2008
+Europe,Eastern Europe,Poland,17669,46.10223707,2008
+Europe,Eastern Europe,Republic of Moldova,67,1.629599362,2008
+Europe,Eastern Europe,Romania,2355,11.3106503,2008
+Europe,Eastern Europe,Russian Federation,52820,36.91558813,2008
+Europe,Eastern Europe,Slovakia,4135,76.59029987,2008
+Europe,Eastern Europe,Ukraine,4641,10.04840599,2008
+Europe,Northern Europe,Denmark,18826,342.4281917,2008
+Europe,Northern Europe,Estonia,1035,77.25541012,2008
+Europe,Northern Europe,Finland,13804,259.4784641,2008
+Europe,Northern Europe,Iceland,386,124.1620669,2008
+Europe,Northern Europe,Ireland,14307,318.6705955,2008
+Europe,Northern Europe,Latvia,2205,101.5248994,2008
+Europe,Northern Europe,Lithuania,2553,79.41823422,2008
+Europe,Northern Europe,Norway,11901,249.4231788,2008
+Europe,Northern Europe,Sweden,44717,484.1131593,2008
+Europe,Northern Europe,United Kingdom (England and Wales),147238,268.4780857,2008
+Europe,Northern Europe,United Kingdom (Northern Ireland),3076,172.891355,2008
+Europe,Northern Europe,United Kingdom (Scotland),11551,222.0108017,2008
+Europe,Southern Europe,Albania,398,13.30369084,2008
+Europe,Southern Europe,Bosnia and Herzegovina,1725,45.83378835,2008
+Europe,Southern Europe,Croatia,1927,44.27413848,2008
+Europe,Southern Europe,Greece,23550,206.2235374,2008
+Europe,Southern Europe,Italy,229961,386.4735842,2008
+Europe,Southern Europe,Kosovo under UNSCR 1244,463,26.49676688,2008
+Europe,Southern Europe,Malta,398,96.57193882,2008
+Europe,Southern Europe,Montenegro,22,3.541504012,2008
+Europe,Southern Europe,Portugal,25274,237.2677911,2008
+Europe,Southern Europe,Serbia,4083,44.87034087,2008
+Europe,Southern Europe,Slovenia,582,28.74729938,2008
+Europe,Southern Europe,Spain,92196,200.4356469,2008
+Europe,Southern Europe,The former Yugoslav Rep. of Macedonia,581,28.10323028,2008
+Europe,Western Europe,Austria,9049,108.5213288,2008
+Europe,Western Europe,Belgium,23303,216.1854161,2008
+Europe,Western Europe,France,211484,339.2996457,2008
+Europe,Western Europe,Germany,89036,109.743577,2008
+Europe,Western Europe,Liechtenstein,16,45.01842942,2008
+Europe,Western Europe,Luxembourg,344,70.91248286,2008
+Europe,Western Europe,Netherlands,21665,130.7583307,2008
+Oceania,Australia and New Zealand,Australia,68265,319.8548548,2008
+Oceania,Australia and New Zealand,New Zealand,21271,497.1805555,2008
+Africa,Eastern Africa,Kenya,903,2.244191719,2009
+Africa,Eastern Africa,Mauritius,840,67.52281306,2009
+Africa,Eastern Africa,Uganda,1042,3.1795537,2009
+Africa,Middle Africa,Sao Tome and Principe,0,0,2009
+Africa,Northern Africa,Algeria,2482,6.998299205,2009
+Africa,Northern Africa,Egypt,3914,4.746254721,2009
+Africa,Northern Africa,Morocco,8282,25.88942378,2009
+Africa,Southern Africa,Botswana,252,12.72803127,2009
+Africa,Southern Africa,Lesotho,437,21.64213808,2009
+Africa,Western Africa,Nigeria,1265,0.819288945,2009
+Americas,Caribbean,Bahamas,1088,306.6032419,2009
+Americas,Caribbean,Barbados,92,33.03767013,2009
+Americas,Caribbean,Grenada,0,0,2009
+Americas,Caribbean,Jamaica,2273,81.06039695,2009
+Americas,Caribbean,Puerto Rico,6832,183.3438844,2009
+Americas,Caribbean,St. Vincent and the Grenadines,29,26.54389353,2009
+Americas,Caribbean,Trinidad and Tobago,1706,129.0841983,2009
+Americas,Central America,Belize,150,47.78150474,2009
+Americas,Central America,Costa Rica,6873,153.1327375,2009
+Americas,Central America,El Salvador,1215,19.79705654,2009
+Americas,Central America,Guatemala,9788,68.37006,2009
+Americas,Central America,Honduras,2381,29.63277881,2009
+Americas,Central America,Mexico,202480,175.2994245,2009
+Americas,Central America,Panama,497,13.88506685,2009
+Americas,Northern America,Bermuda,746,1160.132498,2009
+Americas,Northern America,Canada,107992,319.5991125,2009
+Americas,Northern America,United States of America,795652,259.9521227,2009
+Americas,South America,Bolivia (Plurinational State of),3543,36.30588678,2009
+Americas,South America,Brazil,188205,96.56688894,2009
+Americas,South America,Chile,27864,165.5669867,2009
+Americas,South America,Colombia,21557,47.4654617,2009
+Americas,South America,Ecuador,10856,73.89419911,2009
+Americas,South America,Paraguay,4374,71.37918323,2009
+Americas,South America,Peru,13787,47.53890893,2009
+Asia,Central Asia,Kazakhstan,1780,10.99840628,2009
+Asia,Central Asia,Kyrgyzstan,238,4.456277088,2009
+Asia,Central Asia,Tajikistan,54,0.722618867,2009
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China,1095,15.68032865,2009
+Asia,Eastern Asia,Japan,108799,84.62458373,2009
+Asia,Eastern Asia,Macao Special Administrative Region of China,490,93.27772204,2009
+Asia,Eastern Asia,Mongolia,96,3.597811182,2009
+Asia,Eastern Asia,Republic of Korea,7704,15.60170831,2009
+Asia,South-Eastern Asia,Indonesia,37506,15.67056284,2009
+Asia,South-Eastern Asia,Myanmar,7,0.01405603,2009
+Asia,South-Eastern Asia,Philippines,1879,2.037499556,2009
+Asia,South-Eastern Asia,Singapore,1115,22.45485768,2009
+Asia,Southern Asia,India,140027,11.53178328,2009
+Asia,Southern Asia,Maldives,578,163.0460845,2009
+Asia,Southern Asia,Sri Lanka,1427,7.10831326,2009
+Asia,Western Asia,Armenia,54,1.869428066,2009
+Asia,Western Asia,Azerbaijan,21,0.235309752,2009
+Asia,Western Asia,Cyprus,1627,148.1682506,2009
+Asia,Western Asia,Israel,22113,304.255909,2009
+Asia,Western Asia,Jordan,2618,38.38081628,2009
+Asia,Western Asia,Kuwait,45,1.596345292,2009
+Asia,Western Asia,Lebanon,9268,221.5552086,2009
+Asia,Western Asia,Turkey,30171,42.29232504,2009
+Asia,Western Asia,Yemen,1012,4.404801425,2009
+Europe,Eastern Europe,Belarus,1229,12.95560865,2009
+Europe,Eastern Europe,Bulgaria,4470,59.95147552,2009
+Europe,Eastern Europe,Czech Republic,14770,140.843123,2009
+Europe,Eastern Europe,Hungary,8015,80.48043658,2009
+Europe,Eastern Europe,Poland,17271,45.06473212,2009
+Europe,Eastern Europe,Republic of Moldova,65,1.586898565,2009
+Europe,Eastern Europe,Romania,2967,14.39036995,2009
+Europe,Eastern Europe,Russian Federation,49288,34.44478832,2009
+Europe,Eastern Europe,Slovakia,3779,69.97216482,2009
+Europe,Eastern Europe,Ukraine,5184,11.27102947,2009
+Europe,Northern Europe,Denmark,18680,338.0110223,2009
+Europe,Northern Europe,Estonia,934,69.91907653,2009
+Europe,Northern Europe,Finland,12188,228.1266623,2009
+Europe,Northern Europe,Iceland,475,150.2755579,2009
+Europe,Northern Europe,Ireland,13129,287.4084076,2009
+Europe,Northern Europe,Latvia,2096,97.70154323,2009
+Europe,Northern Europe,Lithuania,1967,62.07451972,2009
+Europe,Northern Europe,Norway,12014,248.8823702,2009
+Europe,Northern Europe,Sweden,40359,433.3397255,2009
+Europe,Northern Europe,United Kingdom (England and Wales),117684,213.0595835,2009
+Europe,Northern Europe,United Kingdom (Northern Ireland),2936,163.7175025,2009
+Europe,Northern Europe,United Kingdom (Scotland),9304,177.8321451,2009
+Europe,Southern Europe,Albania,504,17.011883,2009
+Europe,Southern Europe,Bosnia and Herzegovina,1738,46.38920866,2009
+Europe,Southern Europe,Croatia,1828,42.10929805,2009
+Europe,Southern Europe,Greece,26711,233.4096598,2009
+Europe,Southern Europe,Holy See,0,0,2009
+Europe,Southern Europe,Italy,213407,357.8141678,2009
+Europe,Southern Europe,Kosovo under UNSCR 1244,389,22.08377756,2009
+Europe,Southern Europe,Malta,401,96.84937628,2009
+Europe,Southern Europe,Montenegro,51,8.188141003,2009
+Europe,Southern Europe,Portugal,22539,211.4230547,2009
+Europe,Southern Europe,Serbia,3295,36.3495719,2009
+Europe,Southern Europe,Slovenia,586,28.79007028,2009
+Europe,Southern Europe,Spain,77898,167.6088289,2009
+Europe,Southern Europe,The former Yugoslav Rep. of Macedonia,607,29.33652571,2009
+Europe,Western Europe,Austria,9289,110.9791855,2009
+Europe,Western Europe,Belgium,21906,201.7073209,2009
+Europe,Western Europe,France,207947,331.7199288,2009
+Europe,Western Europe,Germany,87693,108.3089448,2009
+Europe,Western Europe,Liechtenstein,7,19.57166024,2009
+Europe,Western Europe,Luxembourg,419,84.42831552,2009
+Europe,Western Europe,Netherlands,21850,131.4133472,2009
+Europe,Western Europe,Switzerland,9223,119.2039302,2009
+Oceania,Australia and New Zealand,Australia,59649,274.3865414,2009
+Oceania,Australia and New Zealand,New Zealand,21629,500.268071,2009
+Africa,Eastern Africa,Kenya,803,1.941951749,2010
+Africa,Eastern Africa,Madagascar,50,0.23638829,2010
+Africa,Eastern Africa,Mauritius,716,57.37386364,2010
+Africa,Eastern Africa,Uganda,1121,3.305309167,2010
+Africa,Eastern Africa,United Republic of Tanzania,1915,4.154139982,2010
+Africa,Middle Africa,Cameroon,808,4.045968815,2010
+Africa,Middle Africa,Sao Tome and Principe,0,0,2010
+Africa,Northern Africa,Algeria,2247,6.221337238,2010
+Africa,Northern Africa,Egypt,4979,5.919797551,2010
+Africa,Southern Africa,Botswana,236,11.71293773,2010
+Africa,Western Africa,Nigeria,1826,1.151481917,2010
+Americas,Caribbean,Bahamas,1240,343.6502306,2010
+Americas,Caribbean,Barbados,110,39.34627945,2010
+Americas,Caribbean,Grenada,0,0,2010
+Americas,Caribbean,Jamaica,1966,69.78535501,2010
+Americas,Caribbean,Puerto Rico,6769,182.1242702,2010
+Americas,Caribbean,St. Vincent and the Grenadines,59,53.9724649,2010
+Americas,Caribbean,Trinidad and Tobago,1371,103.2301785,2010
+Americas,Central America,Belize,138,42.90938036,2010
+Americas,Central America,Costa Rica,4980,109.5642073,2010
+Americas,Central America,El Salvador,999,16.20536266,2010
+Americas,Central America,Guatemala,10676,72.97126254,2010
+Americas,Central America,Honduras,2838,34.63181065,2010
+Americas,Central America,Mexico,229965,196.0169415,2010
+Americas,Central America,Nicaragua,388,6.762264403,2010
+Americas,Central America,Panama,280,7.685504754,2010
+Americas,Northern America,Bermuda,720,1125.77397,2010
+Americas,Northern America,Canada,92506,270.7334099,2010
+Americas,Northern America,United States of America,739565,239.6195136,2010
+Americas,South America,Bolivia (Plurinational State of),4113,41.4690426,2010
+Americas,South America,Brazil,121486,61.73186139,2010
+Americas,South America,Chile,30782,181.1414039,2010
+Americas,South America,Colombia,21449,46.71143057,2010
+Americas,South America,Ecuador,10884,72.8773078,2010
+Americas,South America,Guyana,23,3.080813763,2010
+Americas,South America,Paraguay,4757,76.6037717,2010
+Americas,South America,Peru,15179,51.6755734,2010
+Asia,Central Asia,Kazakhstan,2151,13.11667265,2010
+Asia,Central Asia,Kyrgyzstan,765,14.10830791,2010
+Asia,Central Asia,Tajikistan,46,0.601965811,2010
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China,945,13.45153412,2010
+Asia,Eastern Asia,Japan,98266,76.44073766,2010
+Asia,Eastern Asia,Macao Special Administrative Region of China,410,76.35450091,2010
+Asia,Eastern Asia,Mongolia,146,5.382190847,2010
+Asia,Eastern Asia,Republic of Korea,7441,15.01628917,2010
+Asia,South-Eastern Asia,Indonesia,35668,14.70699061,2010
+Asia,South-Eastern Asia,Myanmar,1,0.001993784,2010
+Asia,South-Eastern Asia,Philippines,8656,9.235369451,2010
+Asia,South-Eastern Asia,Singapore,987,19.45114275,2010
+Asia,South-Eastern Asia,Thailand,18607,27.68535934,2010
+Asia,Southern Asia,India,147475,11.9802854,2010
+Asia,Southern Asia,Maldives,618,169.5422086,2010
+Asia,Southern Asia,Pakistan,35259,20.67246856,2010
+Asia,Southern Asia,Sri Lanka,1693,8.381871532,2010
+Asia,Western Asia,Armenia,60,2.085280319,2010
+Asia,Western Asia,Azerbaijan,36,0.39856265,2010
+Asia,Western Asia,Cyprus,1705,153.243688,2010
+Asia,Western Asia,Israel,20333,273.8097531,2010
+Asia,Western Asia,Jordan,2589,36.04649706,2010
+Asia,Western Asia,Lebanon,9421,217.2168256,2010
+Asia,Western Asia,Turkey,28359,39.20947049,2010
+Europe,Eastern Europe,Belarus,932,9.838414596,2010
+Europe,Eastern Europe,Bulgaria,3938,53.18322824,2010
+Europe,Eastern Europe,Czech Republic,13109,124.4176553,2010
+Europe,Eastern Europe,Hungary,6715,67.63807636,2010
+Europe,Eastern Europe,Poland,16539,43.15639828,2010
+Europe,Eastern Europe,Republic of Moldova,118,2.888983937,2010
+Europe,Eastern Europe,Romania,2531,12.38237296,2010
+Europe,Eastern Europe,Russian Federation,47587,33.24185391,2010
+Europe,Eastern Europe,Slovakia,3354,62.06176052,2010
+Europe,Eastern Europe,Ukraine,4278,9.342140976,2010
+Europe,Northern Europe,Denmark,552,9.937272766,2010
+Europe,Northern Europe,Estonia,870,65.31031408,2010
+Europe,Northern Europe,Finland,10224,190.5407264,2010
+Europe,Northern Europe,Iceland,53,16.54554082,2010
+Europe,Northern Europe,Ireland,11410,246.5999039,2010
+Europe,Northern Europe,Latvia,1441,68.00865376,2010
+Europe,Northern Europe,Lithuania,2060,65.94525967,2010
+Europe,Northern Europe,Norway,10858,222.2323193,2010
+Europe,Northern Europe,Sweden,33759,359.5143346,2010
+Europe,Northern Europe,United Kingdom (England and Wales),106162,190.621981,2010
+Europe,Northern Europe,United Kingdom (Northern Ireland),2823,156.4133635,2010
+Europe,Northern Europe,United Kingdom (Scotland),8716,165.6341454,2010
+Europe,Southern Europe,Albania,627,21.32272298,2010
+Europe,Southern Europe,Bosnia and Herzegovina,1628,43.73893765,2010
+Europe,Southern Europe,Croatia,1382,31.93047935,2010
+Europe,Southern Europe,Greece,27587,241.0185912,2010
+Europe,Southern Europe,Holy See,0,0,2010
+Europe,Southern Europe,Italy,197583,330.7946399,2010
+Europe,Southern Europe,Kosovo under UNSCR 1244,339,19.09127771,2010
+Europe,Southern Europe,Malta,372,89.39943765,2010
+Europe,Southern Europe,Montenegro,40,6.407329986,2010
+Europe,Southern Europe,Portugal,20310,190.6626734,2010
+Europe,Southern Europe,Serbia,3282,36.34665808,2010
+Europe,Southern Europe,Slovenia,534,26.11032443,2010
+Europe,Southern Europe,Spain,65672,140.3588863,2010
+Europe,Southern Europe,The former Yugoslav Rep. of Macedonia,527,25.44985148,2010
+Europe,Western Europe,Austria,4402,52.34276688,2010
+Europe,Western Europe,Belgium,19851,181.4742997,2010
+Europe,Western Europe,France,195367,309.9747821,2010
+Europe,Western Europe,Germany,76123,94.10124522,2010
+Europe,Western Europe,Liechtenstein,3,8.332638947,2010
+Europe,Western Europe,Luxembourg,418,82.30144776,2010
+Europe,Western Europe,Netherlands,21730,130.2530007,2010
+Europe,Western Europe,Switzerland,7961,101.6474652,2010
+Oceania,Australia and New Zealand,Australia,47584,215.1169183,2010
+Oceania,Australia and New Zealand,New Zealand,19991,457.453464,2010
+Africa,Eastern Africa,Kenya,1269,2.986807279,2011
+Africa,Eastern Africa,Madagascar,16,0.07358369,2011
+Africa,Eastern Africa,Mauritius,504,40.2870291,2011
+Africa,Eastern Africa,Uganda,495,1.410511669,2011
+Africa,Eastern Africa,United Republic of Tanzania,3003,6.312682488,2011
+Africa,Middle Africa,Cameroon,1150,5.60416642,2011
+Africa,Middle Africa,Sao Tome and Principe,0,0,2011
+Africa,Northern Africa,Algeria,2804,7.615517818,2011
+Africa,Northern Africa,Egypt,20231,23.55247316,2011
+Africa,Southern Africa,Botswana,327,15.94080744,2011
+Americas,Caribbean,Bahamas,1330,362.8249056,2011
+Americas,Caribbean,Barbados,91,32.43039048,2011
+Americas,Caribbean,Grenada,0,0,2011
+Americas,Caribbean,Puerto Rico,5853,157.891159,2011
+Americas,Caribbean,St. Kitts and Nevis,3,5.768565166,2011
+Americas,Caribbean,St. Vincent and the Grenadines,43,39.32651064,2011
+Americas,Caribbean,Trinidad and Tobago,901,67.50135602,2011
+Americas,Central America,Belize,92,27.94721621,2011
+Americas,Central America,Costa Rica,5078,110.3799304,2011
+Americas,Central America,El Salvador,1095,17.68250933,2011
+Americas,Central America,Guatemala,11960,80.00578503,2011
+Americas,Central America,Honduras,3200,38.3160113,2011
+Americas,Central America,Mexico,230415,193.4796936,2011
+Americas,Central America,Panama,324,8.738377823,2011
+Americas,Northern America,Bermuda,659,1036.47316,2011
+Americas,Northern America,Canada,82460,238.7472204,2011
+Americas,Northern America,United States of America,716508,230.3503737,2011
+Americas,South America,Bolivia (Plurinational State of),5938,58.91841546,2011
+Americas,South America,Brazil,167109,84.1067923,2011
+Americas,South America,Chile,34741,202.5317843,2011
+Americas,South America,Colombia,30722,66.20172464,2011
+Americas,South America,Ecuador,10952,72.16013594,2011
+Americas,South America,Guyana,25,3.337338139,2011
+Americas,South America,Paraguay,5119,81.33423094,2011
+Americas,South America,Peru,15881,53.36359499,2011
+Asia,Central Asia,Kazakhstan,2930,17.60036714,2011
+Asia,Central Asia,Kyrgyzstan,254,4.612645805,2011
+Asia,Central Asia,Tajikistan,48,0.614128879,2011
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China,864,12.22788879,2011
+Asia,Eastern Asia,Japan,94100,73.22649533,2011
+Asia,Eastern Asia,Macao Special Administrative Region of China,495,90.09189373,2011
+Asia,Eastern Asia,Mongolia,178,6.445734879,2011
+Asia,Eastern Asia,Republic of Korea,10354,20.81429486,2011
+Asia,South-Eastern Asia,Indonesia,39217,15.96084704,2011
+Asia,South-Eastern Asia,Myanmar,10,0.019781208,2011
+Asia,South-Eastern Asia,Philippines,8715,9.146923202,2011
+Asia,South-Eastern Asia,Singapore,673,13.00227569,2011
+Asia,South-Eastern Asia,Thailand,14545,21.53853398,2011
+Asia,Southern Asia,India,151200,12.12280567,2011
+Asia,Southern Asia,Maldives,802,213.791982,2011
+Asia,Southern Asia,Pakistan,40103,23.02331959,2011
+Asia,Southern Asia,Sri Lanka,1410,6.940678415,2011
+Asia,Western Asia,Armenia,53,1.843105793,2011
+Asia,Western Asia,Azerbaijan,31,0.338931942,2011
+Asia,Western Asia,Cyprus,1783,158.5121373,2011
+Asia,Western Asia,Israel,20974,277.1122509,2011
+Asia,Western Asia,Jordan,4348,57.39977185,2011
+Asia,Western Asia,Lebanon,10479,228.381856,2011
+Asia,Western Asia,Turkey,27465,37.41343673,2011
+Europe,Eastern Europe,Belarus,824,8.702540001,2011
+Europe,Eastern Europe,Bulgaria,3234,43.96283794,2011
+Europe,Eastern Europe,Czech Republic,12393,117.2611808,2011
+Europe,Eastern Europe,Hungary,7051,71.23514528,2011
+Europe,Eastern Europe,Poland,16575,43.25310645,2011
+Europe,Eastern Europe,Republic of Moldova,97,2.378985659,2011
+Europe,Eastern Europe,Romania,1881,9.269221204,2011
+Europe,Eastern Europe,Russian Federation,50279,35.09535139,2011
+Europe,Eastern Europe,Slovakia,2694,49.79808117,2011
+Europe,Northern Europe,Denmark,456,8.167837599,2011
+Europe,Northern Europe,Estonia,752,56.60736694,2011
+Europe,Northern Europe,Finland,11038,204.8154453,2011
+Europe,Northern Europe,Iceland,55,17.0058562,2011
+Europe,Northern Europe,Ireland,10393,222.9023894,2011
+Europe,Northern Europe,Lithuania,1807,58.67109801,2011
+Europe,Northern Europe,Norway,9318,188.3339279,2011
+Europe,Northern Europe,Sweden,33105,349.7293229,2011
+Europe,Northern Europe,United Kingdom (England and Wales),92056,163.8854919,2011
+Europe,Northern Europe,United Kingdom (Northern Ireland),2412,132.9425161,2011
+Europe,Northern Europe,United Kingdom (Scotland),7060,133.2100606,2011
+Europe,Southern Europe,Albania,611,20.87704786,2011
+Europe,Southern Europe,Bosnia and Herzegovina,1091,29.57549273,2011
+Europe,Southern Europe,Croatia,1315,30.48659621,2011
+Europe,Southern Europe,Greece,32242,282.2599178,2011
+Europe,Southern Europe,Holy See,0,0,2011
+Europe,Southern Europe,Italy,198774,332.6208771,2011
+Europe,Southern Europe,Kosovo under UNSCR 1244,434,24.23227247,2011
+Europe,Southern Europe,Malta,364,87.0049502,2011
+Europe,Southern Europe,Montenegro,48,7.674278058,2011
+Europe,Southern Europe,Portugal,19500,183.5237117,2011
+Europe,Southern Europe,Serbia,3370,37.47048227,2011
+Europe,Southern Europe,Slovenia,528,25.71300006,2011
+Europe,Southern Europe,Spain,51799,110.424114,2011
+Europe,Southern Europe,The former Yugoslav Rep. of Macedonia,487,23.49951722,2011
+Europe,Western Europe,Austria,4364,51.58475361,2011
+Europe,Western Europe,Belgium,19375,175.9271223,2011
+Europe,Western Europe,France,186824,294.9375593,2011
+Europe,Western Europe,Germany,70841,87.52936653,2011
+Europe,Western Europe,Liechtenstein,1,2.757555703,2011
+Europe,Western Europe,Luxembourg,456,87.70225853,2011
+Europe,Western Europe,Netherlands,21010,125.5302473,2011
+Europe,Western Europe,Switzerland,8010,101.003465,2011
+Oceania,Australia and New Zealand,Australia,49581,220.5580219,2011
+Oceania,Australia and New Zealand,New Zealand,20724,469.0422815,2011
+Africa,Eastern Africa,Kenya,1199,2.747062093,2012
+Africa,Eastern Africa,Madagascar,16,0.071599345,2012
+Africa,Eastern Africa,Uganda,926,2.550486691,2012
+Africa,Eastern Africa,United Republic of Tanzania,3904,7.953874536,2012
+Africa,Middle Africa,Cameroon,1332,6.318071349,2012
+Africa,Northern Africa,Algeria,3778,10.05700737,2012
+Africa,Northern Africa,Morocco,10221,30.66258084,2012
+Africa,Western Africa,Cabo Verde,53,10.31170534,2012
+Africa,Western Africa,Nigeria,1239,0.740597797,2012
+Americas,Caribbean,Bahamas,1332,358.026981,2012
+Americas,Caribbean,Barbados,68,24.14901362,2012
+Americas,Caribbean,Dominican Republic,7930,78.08999552,2012
+Americas,Caribbean,Grenada,0,0,2012
+Americas,Caribbean,Jamaica,236,8.30695757,2012
+Americas,Caribbean,Puerto Rico,5847,158.130624,2012
+Americas,Caribbean,St. Vincent and the Grenadines,44,40.24586565,2012
+Americas,Caribbean,Trinidad and Tobago,1063,79.23445946,2012
+Americas,Central America,Belize,128,38.01592511,2012
+Americas,Central America,Costa Rica,4335,93.14323948,2012
+Americas,Central America,El Salvador,838,13.46997049,2012
+Americas,Central America,Guatemala,11841,77.53884211,2012
+Americas,Central America,Honduras,2123,24.95989135,2012
+Americas,Central America,Mexico,208491,172.5514535,2012
+Americas,Central America,Panama,274,7.262244967,2012
+Americas,Northern America,Bermuda,620,981.338736,2012
+Americas,Northern America,Canada,78068,223.6860258,2012
+Americas,Northern America,United States of America,723186,230.8025033,2012
+Americas,South America,Bolivia (Plurinational State of),5613,54.81978521,2012
+Americas,South America,Brazil,185288,92.3848683,2012
+Americas,South America,Chile,33014,190.7249246,2012
+Americas,South America,Colombia,31875,67.99060823,2012
+Americas,South America,Ecuador,12204,79.14568318,2012
+Americas,South America,Guyana,48,6.373731727,2012
+Americas,South America,Paraguay,4390,68.8172016,2012
+Americas,South America,Peru,16357,54.2359443,2012
+Americas,South America,Uruguay,17284,508.8352871,2012
+Asia,Central Asia,Kazakhstan,4116,24.32454618,2012
+Asia,Central Asia,Kyrgyzstan,290,5.184025764,2012
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China,600,8.443094738,2012
+Asia,Eastern Asia,Japan,81751,63.65592291,2012
+Asia,Eastern Asia,Macao Special Administrative Region of China,494,87.81738251,2012
+Asia,Eastern Asia,Mongolia,172,6.111804809,2012
+Asia,Eastern Asia,Republic of Korea,6033,12.0775355,2012
+Asia,South-Eastern Asia,Indonesia,41816,16.8014533,2012
+Asia,South-Eastern Asia,Myanmar,25,0.049032574,2012
+Asia,South-Eastern Asia,Philippines,6919,7.142809802,2012
+Asia,South-Eastern Asia,Singapore,586,11.11752361,2012
+Asia,South-Eastern Asia,Thailand,14612,21.53765185,2012
+Asia,Southern Asia,India,154351,12.22034463,2012
+Asia,Southern Asia,Maldives,1236,320.0389433,2012
+Asia,Southern Asia,Pakistan,34663,19.4832788,2012
+Asia,Southern Asia,Sri Lanka,1374,6.727196749,2012
+Asia,Western Asia,Armenia,61,2.11664299,2012
+Asia,Western Asia,Azerbaijan,40,0.431736194,2012
+Asia,Western Asia,Cyprus,1749,154.0884991,2012
+Asia,Western Asia,Jordan,4908,61.40700873,2012
+Asia,Western Asia,Lebanon,13008,264.5836266,2012
+Asia,Western Asia,Turkey,31013,41.58918508,2012
+Asia,Western Asia,United Arab Emirates,1093,12.28027382,2012
+Europe,Eastern Europe,Belarus,709,7.485432967,2012
+Europe,Eastern Europe,Bulgaria,3082,42.15921382,2012
+Europe,Eastern Europe,Czech Republic,11127,105.1030273,2012
+Europe,Eastern Europe,Hungary,7740,78.42196366,2012
+Europe,Eastern Europe,Poland,16230,42.35673168,2012
+Europe,Eastern Europe,Republic of Moldova,116,2.847532086,2012
+Europe,Eastern Europe,Romania,1627,8.065933429,2012
+Europe,Eastern Europe,Russian Federation,52953,36.92147509,2012
+Europe,Eastern Europe,Slovakia,2546,46.99957726,2012
+Europe,Northern Europe,Denmark,335,5.970777057,2012
+Europe,Northern Europe,Estonia,620,46.79478374,2012
+Europe,Northern Europe,Finland,7967,147.1832521,2012
+Europe,Northern Europe,Iceland,45,13.82378059,2012
+Europe,Northern Europe,Ireland,8448,180.5854792,2012
+Europe,Northern Europe,Latvia,910,44.03849448,2012
+Europe,Northern Europe,Lithuania,1724,56.76194816,2012
+Europe,Northern Europe,Norway,7953,158.6789484,2012
+Europe,Northern Europe,Sweden,27534,288.5889151,2012
+Europe,Northern Europe,United Kingdom (England and Wales),79820,141.1050202,2012
+Europe,Northern Europe,United Kingdom (Northern Ireland),2101,115.2095212,2012
+Europe,Northern Europe,United Kingdom (Scotland),5731,107.8553147,2012
+Europe,Southern Europe,Albania,677,23.18462185,2012
+Europe,Southern Europe,Bosnia and Herzegovina,1328,36.40151307,2012
+Europe,Southern Europe,Croatia,1142,26.57961339,2012
+Europe,Southern Europe,Greece,31166,273.9083851,2012
+Europe,Southern Europe,Holy See,0,0,2012
+Europe,Southern Europe,Italy,196589,329.1082906,2012
+Europe,Southern Europe,Kosovo under UNSCR 1244,316,17.5049856,2012
+Europe,Southern Europe,Malta,306,72.72053214,2012
+Europe,Southern Europe,Montenegro,43,6.864776671,2012
+Europe,Southern Europe,Portugal,15900,150.2576919,2012
+Europe,Southern Europe,Serbia,2761,30.82510809,2012
+Europe,Southern Europe,Slovenia,539,26.1600959,2012
+Europe,Southern Europe,Spain,47125,100.5710858,2012
+Europe,Southern Europe,The former Yugoslav Rep. of Macedonia,371,17.88782837,2012
+Europe,Western Europe,Austria,3805,44.67248086,2012
+Europe,Western Europe,Belgium,17212,155.2932048,2012
+Europe,Western Europe,France,178333,280.222118,2012
+Europe,Western Europe,Germany,64017,78.96876613,2012
+Europe,Western Europe,Liechtenstein,6,16.41811465,2012
+Europe,Western Europe,Luxembourg,372,69.87398265,2012
+Europe,Western Europe,Netherlands,20135,119.9290373,2012
+Europe,Western Europe,Switzerland,8129,101.2118277,2012
+Oceania,Australia and New Zealand,Australia,52324,229.2715196,2012
+Oceania,Australia and New Zealand,New Zealand,17807,398.5681361,2012
+Africa,Eastern Africa,Kenya,93,0.20746495,2013
+Africa,Eastern Africa,Madagascar,31,0.135010683,2013
+Africa,Eastern Africa,Uganda,623,1.658956557,2013
+Africa,Eastern Africa,United Republic of Tanzania,5159,10.18828379,2013
+Africa,Middle Africa,Cameroon,1989,9.184642484,2013
+Africa,Northern Africa,Algeria,4219,11.00458593,2013
+Africa,Northern Africa,Morocco,3072,9.082101935,2013
+Africa,Western Africa,Cabo Verde,83,15.95828543,2013
+Africa,Western Africa,Nigeria,2043,1.188970661,2013
+Americas,Caribbean,Barbados,59,20.88429041,2013
+Americas,Caribbean,Dominican Republic,8589,83.54005176,2013
+Americas,Caribbean,Jamaica,576,20.19772025,2013
+Americas,Caribbean,Puerto Rico,5530,149.9163803,2013
+Americas,Caribbean,Trinidad and Tobago,1047,77.65633622,2013
+Americas,Central America,Belize,78,22.66249444,2013
+Americas,Central America,Costa Rica,4219,89.64387012,2013
+Americas,Central America,El Salvador,1082,17.30984804,2013
+Americas,Central America,Guatemala,2475,15.86923596,2013
+Americas,Central America,Honduras,150,1.732544756,2013
+Americas,Central America,Mexico,115806,94.50776041,2013
+Americas,Central America,Panama,220,5.731462237,2013
+Americas,Northern America,Bermuda,648,1032.323844,2013
+Americas,Northern America,Canada,72512,205.6757393,2013
+Americas,Northern America,United States of America,700300,221.9393349,2013
+Americas,South America,Brazil,228936,113.1058482,2013
+Americas,South America,Chile,31230,178.835436,2013
+Americas,South America,Colombia,32134,67.87489787,2013
+Americas,South America,Ecuador,13744,87.75633723,2013
+Americas,South America,Guyana,77,10.15722594,2013
+Americas,South America,Paraguay,4425,68.4376421,2013
+Americas,South America,Peru,18927,61.92231846,2013
+Americas,South America,Uruguay,16341,479.4887331,2013
+Asia,Central Asia,Kazakhstan,4461,25.92510823,2013
+Asia,Central Asia,Kyrgyzstan,300,5.278151549,2013
+Asia,Eastern Asia,Hong Kong Special Administrative Region of China,588,8.225420157,2013
+Asia,Eastern Asia,Japan,72971,56.86956543,2013
+Asia,Eastern Asia,Macao Special Administrative Region of China,364,63.21189356,2013
+Asia,Eastern Asia,Mongolia,135,4.705296805,2013
+Asia,Eastern Asia,Republic of Korea,7044,14.04047524,2013
+Asia,South-Eastern Asia,Indonesia,42508,16.86609464,2013
+Asia,South-Eastern Asia,Myanmar,978,1.900941289,2013
+Asia,South-Eastern Asia,Philippines,12341,12.53134715,2013
+Asia,South-Eastern Asia,Singapore,404,7.536136614,2013
+Asia,South-Eastern Asia,Thailand,12380,18.16765947,2013
+Asia,Southern Asia,India,165690,12.95908788,2013
+Asia,Southern Asia,Maldives,890,223.9574028,2013
+Asia,Southern Asia,Pakistan,33949,18.68279962,2013
+Asia,Southern Asia,Sri Lanka,1326,6.45971135,2013
+Asia,Western Asia,Armenia,51,1.762565798,2013
+Asia,Western Asia,Azerbaijan,44,0.468818608,2013
+Asia,Western Asia,Cyprus,1317,115.1328442,2013
+Asia,Western Asia,Lebanon,13152,249.2749382,2013
+Asia,Western Asia,United Arab Emirates,927,10.29283733,2013
+Europe,Eastern Europe,Belarus,620,6.540841967,2013
+Europe,Eastern Europe,Bulgaria,3583,49.31090657,2013
+Europe,Eastern Europe,Czech Republic,21497,202.9075327,2013
+Europe,Eastern Europe,Hungary,5692,57.83555417,2013
+Europe,Eastern Europe,Poland,18234,47.59661004,2013
+Europe,Eastern Europe,Republic of Moldova,195,4.788843909,2013
+Europe,Eastern Europe,Romania,2892,14.41085825,2013
+Europe,Eastern Europe,Russian Federation,51654,35.97144597,2013
+Europe,Eastern Europe,Slovakia,2431,44.80998612,2013
+Europe,Northern Europe,Denmark,288,5.108360204,2013
+Europe,Northern Europe,Estonia,547,41.39047792,2013
+Europe,Northern Europe,Finland,7214,132.6928369,2013
+Europe,Northern Europe,Iceland,31,9.479281654,2013
+Europe,Northern Europe,Ireland,7368,157.3697551,2013
+Europe,Northern Europe,Latvia,1347,66.0040455,2013
+Europe,Northern Europe,Lithuania,1504,50.17792478,2013
+Europe,Northern Europe,Norway,6634,130.6651178,2013
+Europe,Northern Europe,Sweden,27724,288.3337266,2013
+Europe,Northern Europe,United Kingdom (England and Wales),75308,132.2394064,2013
+Europe,Northern Europe,United Kingdom (Northern Ireland),2121,115.9190589,2013
+Europe,Northern Europe,United Kingdom (Scotland),5976,112.168478,2013
+Europe,Southern Europe,Albania,572,19.59589966,2013
+Europe,Southern Europe,Bosnia and Herzegovina,1376,38.16922002,2013
+Europe,Southern Europe,Croatia,866,20.24402229,2013
+Europe,Southern Europe,Greece,28877.59915,255.0731731,2013
+Europe,Southern Europe,Holy See,0,0,2013
+Europe,Southern Europe,Italy,183486,307.511564,2013
+Europe,Southern Europe,Kosovo under UNSCR 1244,386,21.16112055,2013
+Europe,Southern Europe,Malta,325,76.78749474,2013
+Europe,Southern Europe,Montenegro,39,6.219163315,2013
+Europe,Southern Europe,Portugal,14799,140.5723619,2013
+Europe,Southern Europe,Serbia,2219,24.87608202,2013
+Europe,Southern Europe,Slovenia,621,30.05635203,2013
+Europe,Southern Europe,Spain,41499,88.86761154,2013
+Europe,Southern Europe,The former Yugoslav Rep. of Macedonia,507,24.4250361,2013
+Europe,Western Europe,Austria,11478,133.810815,2013
+Europe,Western Europe,Belgium,15794,141.6310183,2013
+Europe,Western Europe,France,173232,271.0141191,2013
+Europe,Western Europe,Germany,59528,73.25158208,2013
+Europe,Western Europe,Liechtenstein,5,13.57441494,2013
+Europe,Western Europe,Luxembourg,367,67.37394005,2013
+Europe,Western Europe,Netherlands,38458,228.3770037,2013
+Europe,Western Europe,Switzerland,6302,77.48988832,2013
+Oceania,Australia and New Zealand,Australia,47491,205.1382486,2013
+Oceania,Australia and New Zealand,New Zealand,19221,425.476151,2013
+Africa,Eastern Africa,Kenya,566,1.229786471,2014
+Africa,Eastern Africa,Madagascar,10,0.042391201,2014
+Africa,Eastern Africa,Uganda,641,1.650643578,2014
+Africa,Eastern Africa,United Republic of Tanzania,5659,10.83375934,2014
+Africa,Middle Africa,Cameroon,1944,8.741044925,2014
+Africa,Northern Africa,Algeria,5033,12.86774148,2014
+Africa,Southern Africa,Botswana,317,14.61790772,2014
+Africa,Western Africa,Cabo Verde,103,19.56549407,2014
+Americas,Caribbean,Barbados,92,32.46466821,2014
+Americas,Caribbean,Dominican Republic,6064,58.27494627,2014
+Americas,Caribbean,Puerto Rico,4639,126.0352948,2014
+Americas,Caribbean,Trinidad and Tobago,742,54.78064486,2014
+Americas,Central America,Belize,107,30.42417556,2014
+Americas,Central America,Costa Rica,4225,88.80574663,2014
+Americas,Central America,El Salvador,1371,21.82707764,2014
+Americas,Central America,Guatemala,2966,18.62648922,2014
+Americas,Central America,Honduras,140,1.589244718,2014
+Americas,Central America,Mexico,98987,79.68581954,2014
+Americas,Central America,Panama,805,20.61995099,2014
+Americas,Northern America,Bermuda,830,1330.512007,2014
+Americas,Northern America,Canada,74010,207.865652,2014
+Americas,Northern America,United States of America,686800,216.1660076,2014
+Americas,South America,Chile,32870,186.6150617,2014
+Americas,South America,Colombia,31675,66.27690615,2014
+Americas,South America,Ecuador,12843,80.75777873,2014
+Americas,South America,Paraguay,4108,62.69282469,2014
+Americas,South America,Peru,17988,58.07572535,2014
+Americas,South America,Uruguay,17193,502.7860424,2014
+Asia,Central Asia,Kazakhstan,3855,22.04396567,2014
+Asia,Central Asia,Kyrgyzstan,311,5.385686128,2014
+Asia,Eastern Asia,Japan,59824,46.67810466,2014
+Asia,Eastern Asia,Macao Special Administrative Region of China,355,60.2940652,2014
+Asia,Eastern Asia,Mongolia,249,8.51603477,2014
+Asia,Eastern Asia,Republic of Korea,5636,11.18574449,2014
+Asia,South-Eastern Asia,Indonesia,42165,16.52679636,2014
+Asia,South-Eastern Asia,Myanmar,1045,2.01254976,2014
+Asia,South-Eastern Asia,Philippines,13284,13.27043112,2014
+Asia,South-Eastern Asia,Singapore,314,5.763221178,2014
+Asia,South-Eastern Asia,Thailand,11279,16.48572371,2014
+Asia,Southern Asia,Pakistan,33243,17.91628704,2014
+Asia,Southern Asia,Sri Lanka,1347,6.531363832,2014
+Asia,Western Asia,Armenia,51,1.754856824,2014
+Asia,Western Asia,Azerbaijan,63,0.66289476,2014
+Asia,Western Asia,Cyprus,1187,103.010564,2014
+Asia,Western Asia,Lebanon,10059,179.5198847,2014
+Asia,Western Asia,United Arab Emirates,801,8.830467914,2014
+Europe,Eastern Europe,Belarus,570,6.009583071,2014
+Europe,Eastern Europe,Bulgaria,3721,51.52208935,2014
+Europe,Eastern Europe,Czech Republic,17361,163.8057971,2014
+Europe,Eastern Europe,Hungary,4803,48.94360582,2014
+Europe,Eastern Europe,Poland,17083,44.61121676,2014
+Europe,Eastern Europe,Republic of Moldova,178,4.373529923,2014
+Europe,Eastern Europe,Romania,5428,27.17704775,2014
+Europe,Eastern Europe,Russian Federation,50175,34.90158532,2014
+Europe,Eastern Europe,Slovakia,2297,42.27990475,2014
+Europe,Northern Europe,Denmark,284,5.014200427,2014
+Europe,Northern Europe,Estonia,597,45.28356844,2014
+Europe,Northern Europe,Finland,7004,128.2850375,2014
+Europe,Northern Europe,Iceland,58,17.65821609,2014
+Europe,Northern Europe,Ireland,7763,165.6514125,2014
+Europe,Northern Europe,Latvia,1323,65.62093124,2014
+Europe,Northern Europe,Lithuania,1255,42.37222327,2014
+Europe,Northern Europe,Norway,6586,128.1245434,2014
+Europe,Northern Europe,Sweden,27995,288.9246944,2014
+Europe,Northern Europe,United Kingdom (England and Wales),75774,131.9905532,2014
+Europe,Northern Europe,United Kingdom (Northern Ireland),2025,110.0245694,2014
+Europe,Northern Europe,United Kingdom (Scotland),5423,101.4099783,2014
+Europe,Southern Europe,Albania,401,13.72923282,2014
+Europe,Southern Europe,Andorra,0,0,2014
+Europe,Southern Europe,Bosnia and Herzegovina,1361,38.16599093,2014
+Europe,Southern Europe,Croatia,633,14.86776497,2014
+Europe,Southern Europe,Greece,25094.02363,222.7663916,2014
+Europe,Southern Europe,Holy See,0,0,2014
+Europe,Southern Europe,Italy,176461,296.1467177,2014
+Europe,Southern Europe,Kosovo under UNSCR 1244,223,12.24064112,2014
+Europe,Southern Europe,Malta,242,56.86491059,2014
+Europe,Southern Europe,Montenegro,21,3.345685818,2014
+Europe,Southern Europe,Portugal,13723,131.0551029,2014
+Europe,Southern Europe,Serbia,1896,21.34002768,2014
+Europe,Southern Europe,Slovenia,594,28.68394303,2014
+Europe,Southern Europe,Spain,36466,78.38471176,2014
+Europe,Southern Europe,The former Yugoslav Rep. of Macedonia,542,26.08911213,2014
+Europe,Western Europe,Austria,10304,119.3529181,2014
+Europe,Western Europe,Belgium,15783,140.6789688,2014
+Europe,Western Europe,France,169084,263.4091283,2014
+Europe,Western Europe,Germany,58401,71.66676116,2014
+Europe,Western Europe,Liechtenstein,5,13.46728796,2014
+Europe,Western Europe,Luxembourg,365,65.61019277,2014
+Europe,Western Europe,Netherlands,37443,221.695842,2014
+Europe,Western Europe,Switzerland,6606,80.27093323,2014
+Oceania,Australia and New Zealand,Australia,45080,192.0367947,2014
+Africa,Eastern Africa,Kenya,436,0.923019751,2015
+Africa,Eastern Africa,Madagascar,20,0.082528379,2015
+Africa,Eastern Africa,United Republic of Tanzania,5805,10.77395069,2015
+Africa,Middle Africa,Cameroon,1583,6.932485821,2015
+Africa,Northern Africa,Algeria,5352,13.42311235,2015
+Africa,Northern Africa,Morocco,2581,7.415958741,2015
+Africa,Western Africa,Cabo Verde,75,14.07359175,2015
+Africa,Western Africa,Senegal,2,0.013353815,2015
+Americas,Caribbean,Barbados,111,39.05466598,2015
+Americas,Caribbean,Dominican Republic,5873,55.78248686,2015
+Americas,Caribbean,Grenada,0,0,2015
+Americas,Caribbean,Jamaica,603,20.99630423,2015
+Americas,Caribbean,Puerto Rico,4074,110.8955263,2015
+Americas,Caribbean,Trinidad and Tobago,785,57.71668387,2015
+Americas,Central America,Belize,127,35.34768765,2015
+Americas,Central America,El Salvador,2163,34.26546595,2015
+Americas,Central America,Guatemala,3231,19.88010531,2015
+Americas,Central America,Honduras,143,1.595834493,2015
+Americas,Central America,Mexico,94521,75.08164864,2015
+Americas,Central America,Panama,1118,28.1665373,2015
+Americas,Northern America,Bermuda,771,1243.488218,2015
+Americas,Northern America,Canada,78800,219.1950984,2015
+Americas,Northern America,United States of America,713100,222.8930916,2015
+Americas,South America,Argentina,37189,85.65387924,2015
+Americas,South America,Chile,31973,180.0009807,2015
+Americas,South America,Colombia,35005,72.58126837,2015
+Americas,South America,Guyana,52,6.766304843,2015
+Americas,South America,Paraguay,4004,60.30920669,2015
+Americas,South America,Peru,16501,52.59002779,2015
+Americas,South America,Uruguay,16350,476.4607967,2015
+Asia,Central Asia,Kazakhstan,3785,21.32436655,2015
+Asia,Central Asia,Kyrgyzstan,307,5.23408374,2015
+Asia,Eastern Asia,Japan,49307,38.52863152,2015
+Asia,Eastern Asia,Macao Special Administrative Region of China,247,41.10213631,2015
+Asia,Eastern Asia,Mongolia,367,12.32835619,2015
+Asia,Eastern Asia,Republic of Korea,4608,9.10786019,2015
+Asia,South-Eastern Asia,Indonesia,38389,14.8701138,2015
+Asia,South-Eastern Asia,Myanmar,10186,19.4375703,2015
+Asia,South-Eastern Asia,Philippines,12900,12.68232576,2015
+Asia,South-Eastern Asia,Singapore,302,5.455929638,2015
+Asia,South-Eastern Asia,Thailand,10024,14.59998602,2015
+Asia,Southern Asia,Pakistan,27067,14.29238921,2015
+Asia,Southern Asia,Sri Lanka,1279,6.174556002,2015
+Asia,Western Asia,Armenia,57,1.954095888,2015
+Asia,Western Asia,Cyprus,961,82.77454058,2015
+Asia,Western Asia,Lebanon,906,15.483265,2015
+Asia,Western Asia,United Arab Emirates,758,8.280259926,2015
+Europe,Eastern Europe,Bulgaria,4023,56.0509689,2015
+Europe,Eastern Europe,Czech Republic,11328,106.83001,2015
+Europe,Eastern Europe,Hungary,3175,32.45118907,2015
+Europe,Eastern Europe,Poland,15310,40.01021711,2015
+Europe,Eastern Europe,Romania,4659,23.43959771,2015
+Europe,Eastern Europe,Russian Federation,44566,30.97270013,2015
+Europe,Eastern Europe,Slovakia,1932,35.51915884,2015
+Europe,Northern Europe,Denmark,230,4.043106547,2015
+Europe,Northern Europe,Estonia,505,38.39366968,2015
+Europe,Northern Europe,Finland,6722,122.6202424,2015
+Europe,Northern Europe,Iceland,69,20.89370554,2015
+Europe,Northern Europe,Ireland,6452,137.2734706,2015
+Europe,Northern Europe,Latvia,1483,74.42302085,2015
+Europe,Northern Europe,Lithuania,1138,38.81407648,2015
+Europe,Northern Europe,Norway,5365,103.1763309,2015
+Europe,Northern Europe,Sweden,26516,271.5811284,2015
+Europe,Northern Europe,United Kingdom (England and Wales),74556,128.7992883,2015
+Europe,Northern Europe,United Kingdom (Northern Ireland),1698,91.70343175,2015
+Europe,Northern Europe,United Kingdom (Scotland),5028,93.57900614,2015
+Europe,Southern Europe,Albania,277,9.475424102,2015
+Europe,Southern Europe,Bosnia and Herzegovina,1278,36.14293257,2015
+Europe,Southern Europe,Croatia,760,17.94138643,2015
+Europe,Southern Europe,Greece,26658.07713,237.6408666,2015
+Europe,Southern Europe,Holy See,0,0,2015
+Europe,Southern Europe,Italy,165650,278.3836546,2015
+Europe,Southern Europe,Kosovo under UNSCR 1244,280,15.54001554,2015
+Europe,Southern Europe,Malta,229,53.5527202,2015
+Europe,Southern Europe,Montenegro,32,5.094097533,2015
+Europe,Southern Europe,Portugal,12017,115.3431986,2015
+Europe,Southern Europe,Serbia,1690,19.09328368,2015
+Europe,Southern Europe,Slovenia,775,37.35321392,2015
+Europe,Southern Europe,Spain,31137,67.10898204,2015
+Europe,Western Europe,Austria,9743,112.2639136,2015
+Europe,Western Europe,Belgium,14840,131.4677435,2015
+Europe,Western Europe,France,168072,260.7497648,2015
+Europe,Western Europe,Germany,56563,69.22595837,2015
+Europe,Western Europe,Liechtenstein,8,21.38865866,2015
+Europe,Western Europe,Netherlands,35921,212.0671967,2015
+Europe,Western Europe,Switzerland,6322,75.98768668,2015
+Oceania,Australia and New Zealand,Australia,46543,195.5624718,2015
+Africa,Eastern Africa,Kenya,425,0.876517237,2016
+Africa,Western Africa,Senegal,7,0.045390809,2016
+Americas,Caribbean,Barbados,106,37.20877987,2016
+Americas,Caribbean,Dominican Republic,5455,51.24764867,2016
+Americas,Caribbean,Puerto Rico,3788,103.2404135,2016
+Americas,Central America,Belize,105,28.60806246,2016
+Americas,Central America,Guatemala,2708,16.32889196,2016
+Americas,Central America,Honduras,98,1.075444447,2016
+Americas,Central America,Mexico,115468,90.57253733,2016
+Americas,Central America,Panama,879,21.79376955,2016
+Americas,Northern America,Bermuda,770,1247.412025,2016
+Americas,Northern America,Canada,78710,216.9490486,2016
+Americas,Northern America,United States of America,765500,237.5634991,2016
+Americas,South America,Chile,29785,166.3532029,2016
+Americas,South America,Colombia,39388,81.00019338,2016
+Americas,South America,Guyana,54,6.986069777,2016
+Americas,South America,Peru,17544,55.23272348,2016
+Americas,South America,Uruguay,15741,457.0396652,2016
+Asia,Central Asia,Kyrgyzstan,245,4.115802349,2016
+Asia,Eastern Asia,Japan,35959,28.1635766,2016
+Asia,Eastern Asia,Macao Special Administrative Region of China,185,30.27161328,2016
+Asia,Eastern Asia,Mongolia,404,13.36252803,2016
+Asia,Eastern Asia,Republic of Korea,3501,6.894945953,2016
+Asia,South-Eastern Asia,Indonesia,37871,14.51139127,2016
+Asia,South-Eastern Asia,Myanmar,1336,2.526255395,2016
+Asia,South-Eastern Asia,Philippines,9334,9.034613682,2016
+Asia,South-Eastern Asia,Singapore,165,2.938447747,2016
+Asia,South-Eastern Asia,Thailand,5723,8.317316891,2016
+Asia,Southern Asia,Pakistan,23813,12.32704515,2016
+Asia,Southern Asia,Sri Lanka,1241,5.969778777,2016
+Asia,Western Asia,Armenia,49,1.677335203,2016
+Asia,Western Asia,Azerbaijan,252,2.594208849,2016
+Asia,Western Asia,Cyprus,989,84.51139426,2016
+Asia,Western Asia,United Arab Emirates,750,8.076606375,2016
+Europe,Eastern Europe,Bulgaria,3210,45.02092421,2016
+Europe,Eastern Europe,Czech Republic,8734,82.32091986,2016
+Europe,Eastern Europe,Poland,14340,37.53865657,2016
+Europe,Eastern Europe,Romania,1364,6.896214201,2016
+Europe,Eastern Europe,Russian Federation,34848,24.22224305,2016
+Europe,Eastern Europe,Slovakia,1671,30.70711258,2016
+Europe,Northern Europe,Denmark,241,4.220432378,2016
+Europe,Northern Europe,Finland,5991,108.895594,2016
+Europe,Northern Europe,Iceland,57,17.12552045,2016
+Europe,Northern Europe,Ireland,4857,102.5184371,2016
+Europe,Northern Europe,Latvia,975,49.42383969,2016
+Europe,Northern Europe,Lithuania,1263,43.31236804,2016
+Europe,Northern Europe,Norway,4468,85.10799115,2016
+Europe,Northern Europe,Sweden,25184,256.0601894,2016
+Europe,Northern Europe,United Kingdom (England and Wales),87103,149.58866,2016
+Europe,Northern Europe,United Kingdom (Northern Ireland),1561,83.80800451,2016
+Europe,Northern Europe,United Kingdom (Scotland),5216,96.50624924,2016
+Europe,Southern Europe,Albania,298,10.18076043,2016
+Europe,Southern Europe,Bosnia and Herzegovina,1029,29.16330561,2016
+Europe,Southern Europe,Croatia,890,21.13010647,2016
+Europe,Southern Europe,Greece,26312.88684,235.046546,2016
+Europe,Southern Europe,Italy,156942,264.0796972,2016
+Europe,Southern Europe,Kosovo under UNSCR 1244,295,16.24270455,2016
+Europe,Southern Europe,Montenegro,38,6.046909377,2016
+Europe,Southern Europe,Portugal,11531,111.1051757,2016
+Europe,Southern Europe,Serbia,1507,17.0826676,2016
+Europe,Southern Europe,Slovenia,815,39.25364705,2016
+Europe,Southern Europe,Spain,31678,68.25687944,2016
+Europe,Western Europe,Austria,9023,103.7201211,2016
+Europe,Western Europe,France,161512,249.5936022,2016
+Europe,Western Europe,Germany,59633,72.83479574,2016
+Europe,Western Europe,Liechtenstein,4,10.62377495,2016
+Europe,Western Europe,Netherlands,31301,184.2639602,2016
+Europe,Western Europe,Switzerland,6045,72.05068306,2016
+Oceania,Australia and New Zealand,Australia,51012,211.4989156,2016
